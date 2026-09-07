@@ -1,1 +1,434 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aprentell · Cuéntame tu situación</title>
+<meta name="description" content="Cuenta tu situación y te decimos qué de Aprentell te encaja.">
+<meta name="robots" content="noindex">
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style"
+      href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap">
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap">
+
+<style>
+:root{
+  --terra:#C08A6A;
+  --olive:#798113;
+  --olive-dark:#5f6610;
+  --ink:#1A1A1A;
+  --grey:#888888;
+  --paper:#FFFFFF;
+  --paper-alt:#faf8f4;
+  --line:#ece7df;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;background:var(--paper);}
+body{
+  font-family:'PT Serif', Georgia, serif;
+  color:var(--ink);
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+}
+main{max-width:760px; margin:0 auto; padding:26px 20px 30px;}
+p{margin:0 0 14px; font-size:17px;}
+
+.sep{ text-align:center; color:var(--terra); margin:0 0 22px; }
+
+h1{
+  font-family:'PT Serif', Georgia, serif;
+  font-size:31px;
+  line-height:1.25;
+  font-weight:700;
+  color:var(--terra);
+  text-align:center;
+  margin:0 0 20px;
+}
+
+.box{
+  background:var(--paper-alt);
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:22px 20px 20px;
+  box-shadow:0 1px 3px rgba(26,26,26,.04);
+}
+
+.hint{ font-size:15px; color:var(--grey); margin:0 0 14px; }
+
+.msg{ margin:0 0 16px; }
+.msg-q{
+  font-size:17px; font-weight:700; margin:0 0 8px;
+  padding-left:14px; border-left:3px solid var(--terra);
+}
+.msg-a{ font-size:17px; margin:0; white-space:pre-wrap; }
+.msg-a a{ color:var(--olive); }
+.msg-error{ color:#9a3b2f; }
+
+.waiting{
+  display:flex; align-items:center; gap:10px;
+  font-size:16px; color:var(--grey); font-style:italic;
+  margin:0 0 14px; min-height:24px;
+  transition:opacity .35s ease;
+}
+.waiting.is-fading{ opacity:0; }
+.dots{ display:inline-flex; gap:4px; }
+.dots i{
+  width:6px; height:6px; border-radius:50%;
+  background:var(--olive); opacity:.35;
+  animation:pulse 1.2s infinite ease-in-out;
+}
+.dots i:nth-child(2){ animation-delay:.2s; }
+.dots i:nth-child(3){ animation-delay:.4s; }
+@keyframes pulse{ 0%,100%{opacity:.25;} 50%{opacity:1;} }
+
+form{ display:flex; gap:8px; align-items:stretch; flex-wrap:wrap; }
+
+input[type="text"]{
+  flex:1 1 220px; min-width:0;
+  font-family:'PT Serif', Georgia, serif;
+  font-size:17px; color:var(--ink);
+  background:var(--paper);
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:13px 14px; line-height:1.4;
+  transition:border-color .2s ease, box-shadow .2s ease;
+}
+input[type="text"]::placeholder{ color:#a9a49b; }
+input[type="text"]:focus{
+  outline:none; border-color:var(--olive);
+  box-shadow:0 0 0 3px rgba(121,129,19,.14);
+}
+input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-allowed; }
+
+.mic{
+  flex:0 0 auto; width:50px;
+  display:inline-flex; align-items:center; justify-content:center;
+  background:var(--paper); color:var(--olive);
+  border:1px solid var(--line); border-radius:10px; cursor:pointer;
+  transition:background .2s ease, color .2s ease, border-color .2s ease;
+}
+.mic:hover{ border-color:var(--olive); }
+.mic.is-recording{
+  background:var(--olive); color:#fff; border-color:var(--olive);
+  animation:rec 1.1s infinite ease-in-out;
+}
+@keyframes rec{ 0%,100%{box-shadow:0 0 0 0 rgba(121,129,19,.35);} 50%{box-shadow:0 0 0 6px rgba(121,129,19,0);} }
+.mic:disabled{ opacity:.45; cursor:not-allowed; }
+
+.send{
+  flex:0 0 auto;
+  font-family:'PT Serif', Georgia, serif;
+  font-size:17px; color:#fff;
+  background:var(--olive); border:1px solid var(--olive);
+  border-radius:10px; padding:13px 26px; cursor:pointer;
+  transition:background .2s ease;
+}
+.send:hover{ background:var(--olive-dark); }
+.send:disabled{ background:#b9bd83; border-color:#b9bd83; cursor:not-allowed; }
+
+.sronly{
+  position:absolute; width:1px; height:1px;
+  overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap;
+}
+
+@media (max-width:560px){
+  main{ padding:20px 16px 26px; }
+  h1{ font-size:26px; }
+  .box{ padding:18px 15px 15px; }
+  input[type="text"]{ flex:1 1 100%; order:1; }
+  .mic{ order:2; }
+  .send{ order:3; flex:1 1 auto; padding:13px 18px; }
+}
+
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{ animation:none !important; transition:none !important; }
+}
+</style>
+</head>
+
+<body>
+<main>
+
+  <div class="sep" aria-hidden="true">
+    <svg viewBox="0 0 64 16" width="64" height="16" role="presentation">
+      <path d="M32 1 L32 15 M32 4 L24 8 M32 4 L40 8 M32 8 L25 12 M32 8 L39 12"
+            fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+    </svg>
+  </div>
+
+  <h1>Cuéntame tu situación</h1>
+
+  <section class="box">
+
+    <div id="thread" role="log" aria-live="polite">
+      <p class="hint" id="hint">Y te digo qué de Aprentell te encaja.</p>
+    </div>
+
+    <p class="waiting" id="waiting" hidden aria-live="polite">
+      <span class="dots" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span id="waiting-text"></span>
+    </p>
+
+    <form id="form" novalidate>
+      <label class="sronly" for="entrada">Cuenta tu situación</label>
+      <input id="entrada" type="text" placeholder="Mi hijo empieza el instituto y…"
+             autocomplete="off" maxlength="500">
+
+      <button class="mic" id="mic" type="button"
+              aria-label="Contarlo con la voz" title="Contarlo con la voz" hidden>
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+          <path d="M12 3a3 3 0 0 1 3 3v6a3 3 0 0 1-6 0V6a3 3 0 0 1 3-3z"
+                fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+          <path d="M5 11a7 7 0 0 0 14 0M12 18v3M9 21h6"
+                fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </button>
+
+      <button class="send" id="enviar" type="submit">Enviar</button>
+    </form>
+
+  </section>
+
+</main>
+
+<script>
+(function () {
+  'use strict';
+
+  /* =========================================================
+     CONFIGURACIÓN — lo único que hay que rellenar
+
+     Pega aquí la dirección de tu Worker de Cloudflare.
+     Tiene esta forma: https://infoaprentell.hcoscolla.workers.dev
+     ========================================================= */
+  var ENDPOINT = ""; // ← [PENDIENTE] URL del Worker de Cloudflare
+
+  /* Nombre del campo que espera el Worker */
+  var CAMPO = "question";
+
+  /* Mensajes mientras se espera la respuesta */
+  var ESPERAS = [
+    "Un momento, estoy consultando la documentación",
+    "Ya casi tengo la respuesta",
+    "Unos segundos más y podré responderte",
+    "Buena pregunta, contestaré con atención",
+    "Gracias por tu pregunta, ya casi tengo la respuesta"
+  ];
+  var INTERVALO = 3800;
+
+  /* ---------- elementos ---------- */
+  var form     = document.getElementById('form');
+  var entrada  = document.getElementById('entrada');
+  var enviar   = document.getElementById('enviar');
+  var mic      = document.getElementById('mic');
+  var thread   = document.getElementById('thread');
+  var hint     = document.getElementById('hint');
+  var waiting  = document.getElementById('waiting');
+  var waitTxt  = document.getElementById('waiting-text');
+
+  var esperando = false;
+  var rotador   = null;
+  var ultimo    = -1;
+
+  /* ---------- altura para el iframe ---------- */
+  function avisarAltura() {
+    if (window.parent === window) return;
+    var alto = document.documentElement.scrollHeight;
+    window.parent.postMessage({ aprentellInfoHeight: alto }, '*');
+  }
+  window.addEventListener('load', avisarAltura);
+  if (window.ResizeObserver) new ResizeObserver(avisarAltura).observe(document.body);
+
+  /* ---------- espera ---------- */
+  function aleatorio() {
+    if (ESPERAS.length < 2) return ESPERAS[0];
+    var i;
+    do { i = Math.floor(Math.random() * ESPERAS.length); } while (i === ultimo);
+    ultimo = i;
+    return ESPERAS[i];
+  }
+
+  function arrancarEspera() {
+    waitTxt.textContent = aleatorio();
+    waiting.hidden = false;
+    avisarAltura();
+    rotador = setInterval(function () {
+      waiting.classList.add('is-fading');
+      setTimeout(function () {
+        waitTxt.textContent = aleatorio();
+        waiting.classList.remove('is-fading');
+      }, 350);
+    }, INTERVALO);
+  }
+
+  function pararEspera() {
+    if (rotador) { clearInterval(rotador); rotador = null; }
+    waiting.hidden = true;
+    waiting.classList.remove('is-fading');
+    waitTxt.textContent = '';
+  }
+
+  /* ---------- bloqueo ---------- */
+  function bloquear() {
+    esperando = true;
+    entrada.disabled = true;
+    enviar.disabled = true;
+    mic.disabled = true;
+    enviar.textContent = 'Pensando…';
+    entrada.placeholder = 'Espera a la respuesta…';
+  }
+
+  function desbloquear() {
+    esperando = false;
+    entrada.disabled = false;
+    enviar.disabled = false;
+    mic.disabled = false;
+    enviar.textContent = 'Enviar';
+    entrada.placeholder = 'Mi hijo empieza el instituto y…';
+    entrada.focus();
+  }
+
+  /* ---------- pintar ---------- */
+  function pintar(pregunta, respuesta, esError) {
+    if (hint && hint.parentNode) { hint.parentNode.removeChild(hint); hint = null; }
+    var bloque = document.createElement('div');
+    bloque.className = 'msg';
+
+    var q = document.createElement('p');
+    q.className = 'msg-q';
+    q.textContent = pregunta;
+
+    var a = document.createElement('p');
+    a.className = 'msg-a' + (esError ? ' msg-error' : '');
+    a.textContent = respuesta;
+
+    bloque.appendChild(q);
+    bloque.appendChild(a);
+    thread.appendChild(bloque);
+    avisarAltura();
+    bloque.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
+  /* ---------- leer la respuesta ---------- */
+  function extraer(datos) {
+    if (typeof datos === 'string') return datos;
+    if (!datos || typeof datos !== 'object') return '';
+    var claves = ['answer', 'response', 'reply', 'text', 'output', 'result', 'message'];
+    for (var i = 0; i < claves.length; i++) {
+      var v = datos[claves[i]];
+      if (typeof v === 'string' && v.trim()) return v;
+    }
+    try {
+      var t = datos.content.filter(function (b) { return b.type === 'text'; })
+                           .map(function (b) { return b.text; }).join('').trim();
+      if (t) return t;
+    } catch (e) {}
+    try {
+      var g = datos.candidates[0].content.parts
+                   .map(function (x) { return x.text || ''; }).join('').trim();
+      if (g) return g;
+    } catch (e) {}
+    return '';
+  }
+
+  /* ---------- envío ---------- */
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    if (esperando) return;
+
+    var pregunta = (entrada.value || '').trim();
+    if (!pregunta) { entrada.focus(); return; }
+
+    if (!ENDPOINT) {
+      pintar(pregunta, 'Todavía no estoy conectado. Escribe a aprentell@gmail.com.', true);
+      entrada.value = '';
+      return;
+    }
+
+    entrada.value = '';
+    bloquear();
+    arrancarEspera();
+
+    var cuerpo = {};
+    cuerpo[CAMPO] = pregunta;
+
+    fetch(ENDPOINT, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(cuerpo)
+    })
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      var tipo = r.headers.get('content-type') || '';
+      return tipo.indexOf('application/json') !== -1 ? r.json() : r.text();
+    })
+    .then(function (datos) {
+      var texto = extraer(datos);
+      pararEspera();
+      pintar(pregunta, texto || 'No he sabido leer la respuesta. Prueba otra vez.', !texto);
+      desbloquear();
+    })
+    .catch(function () {
+      pararEspera();
+      pintar(pregunta, 'No he podido conectar. Inténtalo en un momento.', true);
+      desbloquear();
+    });
+  });
+
+  /* ---------- micrófono ---------- */
+  var Voz = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+  if (Voz) {
+    mic.hidden = false;
+
+    var reco = new Voz();
+    reco.lang = 'es-ES';
+    reco.continuous = false;
+    reco.interimResults = true;
+    reco.maxAlternatives = 1;
+
+    var grabando = false;
+    var base = '';
+
+    mic.addEventListener('click', function () {
+      if (esperando) return;
+      if (grabando) { reco.stop(); return; }
+      base = (entrada.value || '').trim();
+      try { reco.start(); } catch (e) {}
+    });
+
+    reco.addEventListener('start', function () {
+      grabando = true;
+      mic.classList.add('is-recording');
+      mic.setAttribute('aria-label', 'Detener la grabación');
+      entrada.placeholder = 'Te escucho…';
+    });
+
+    reco.addEventListener('result', function (ev) {
+      var dicho = '';
+      for (var i = ev.resultIndex; i < ev.results.length; i++) {
+        dicho += ev.results[i][0].transcript;
+      }
+      entrada.value = (base ? base + ' ' : '') + dicho.trim();
+    });
+
+    reco.addEventListener('error', function () {
+      entrada.placeholder = 'No he podido usar el micrófono. Escríbelo.';
+    });
+
+    reco.addEventListener('end', function () {
+      grabando = false;
+      mic.classList.remove('is-recording');
+      mic.setAttribute('aria-label', 'Contarlo con la voz');
+      if (!esperando) entrada.placeholder = 'Mi hijo empieza el instituto y…';
+      if ((entrada.value || '').trim()) entrada.focus();
+    });
+  }
+
+})();
+</script>
+</body>
+</html>
