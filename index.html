@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Aprentell · Cuéntame tu situación</title>
-<meta name="description" content="Cuenta tu situación y te decimos qué de Aprentell te encaja.">
+<title>Aprentell ∑ CuÈntame tu situaciÛn</title>
+<meta name="description" content="Cuenta tu situaciÛn y te decimos quÈ de Aprentell te encaja.">
 <meta name="robots" content="noindex">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -159,12 +159,12 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     </svg>
   </div>
 
-  <h1>Cuéntame tu situación</h1>
+  <h1>CuÈntame tu situaciÛn</h1>
 
   <section class="box">
 
     <div id="thread" role="log" aria-live="polite">
-      <p class="hint" id="hint">Y te digo qué de Aprentell te encaja.</p>
+      <p class="hint" id="hint">Y te digo quÈ de Aprentell te encaja.</p>
     </div>
 
     <p class="waiting" id="waiting" hidden aria-live="polite">
@@ -173,8 +173,8 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     </p>
 
     <form id="form" novalidate>
-      <label class="sronly" for="entrada">Cuenta tu situación</label>
-      <input id="entrada" type="text" placeholder="Mi hijo empieza el instituto y…"
+      <label class="sronly" for="entrada">Cuenta tu situaciÛn</label>
+      <input id="entrada" type="text" placeholder="Mi hijo empieza el instituto yÖ"
              autocomplete="off" maxlength="500">
 
       <button class="mic" id="mic" type="button"
@@ -199,22 +199,19 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
   'use strict';
 
   /* =========================================================
-     CONFIGURACIÓN — lo único que hay que rellenar
-
-     Pega aquí la dirección de tu Worker de Cloudflare.
-     Tiene esta forma: https://infoaprentell.hcoscolla.workers.dev
+     CONFIGURACI”N
      ========================================================= */
-  var ENDPOINT = ""; // ← [PENDIENTE] URL del Worker de Cloudflare
+  var ENDPOINT = "https://info.aprentell.workers.dev";
 
   /* Nombre del campo que espera el Worker */
   var CAMPO = "question";
 
   /* Mensajes mientras se espera la respuesta */
   var ESPERAS = [
-    "Un momento, estoy consultando la documentación",
+    "Un momento, estoy consultando la documentaciÛn",
     "Ya casi tengo la respuesta",
-    "Unos segundos más y podré responderte",
-    "Buena pregunta, contestaré con atención",
+    "Unos segundos m·s y podrÈ responderte",
+    "Buena pregunta, contestarÈ con atenciÛn",
     "Gracias por tu pregunta, ya casi tengo la respuesta"
   ];
   var INTERVALO = 3800;
@@ -277,8 +274,8 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     entrada.disabled = true;
     enviar.disabled = true;
     mic.disabled = true;
-    enviar.textContent = 'Pensando…';
-    entrada.placeholder = 'Espera a la respuesta…';
+    enviar.textContent = 'PensandoÖ';
+    entrada.placeholder = 'Espera a la respuestaÖ';
   }
 
   function desbloquear() {
@@ -287,7 +284,7 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     enviar.disabled = false;
     mic.disabled = false;
     enviar.textContent = 'Enviar';
-    entrada.placeholder = 'Mi hijo empieza el instituto y…';
+    entrada.placeholder = 'Mi hijo empieza el instituto yÖ';
     entrada.focus();
   }
 
@@ -334,7 +331,7 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     return '';
   }
 
-  /* ---------- envío ---------- */
+  /* ---------- envÌo ---------- */
   form.addEventListener('submit', function (ev) {
     ev.preventDefault();
     if (esperando) return;
@@ -343,7 +340,7 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     if (!pregunta) { entrada.focus(); return; }
 
     if (!ENDPOINT) {
-      pintar(pregunta, 'Todavía no estoy conectado. Escribe a aprentell@gmail.com.', true);
+      pintar(pregunta, 'TodavÌa no estoy conectado. Escribe a aprentell@gmail.com.', true);
       entrada.value = '';
       return;
     }
@@ -373,12 +370,12 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     })
     .catch(function () {
       pararEspera();
-      pintar(pregunta, 'No he podido conectar. Inténtalo en un momento.', true);
+      pintar(pregunta, 'No he podido conectar. IntÈntalo en un momento.', true);
       desbloquear();
     });
   });
 
-  /* ---------- micrófono ---------- */
+  /* ---------- micrÛfono ---------- */
   var Voz = window.SpeechRecognition || window.webkitSpeechRecognition;
 
   if (Voz) {
@@ -403,8 +400,8 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     reco.addEventListener('start', function () {
       grabando = true;
       mic.classList.add('is-recording');
-      mic.setAttribute('aria-label', 'Detener la grabación');
-      entrada.placeholder = 'Te escucho…';
+      mic.setAttribute('aria-label', 'Detener la grabaciÛn');
+      entrada.placeholder = 'Te escuchoÖ';
     });
 
     reco.addEventListener('result', function (ev) {
@@ -416,14 +413,14 @@ input[type="text"]:disabled{ background:#f2efe9; color:var(--grey); cursor:not-a
     });
 
     reco.addEventListener('error', function () {
-      entrada.placeholder = 'No he podido usar el micrófono. Escríbelo.';
+      entrada.placeholder = 'No he podido usar el micrÛfono. EscrÌbelo.';
     });
 
     reco.addEventListener('end', function () {
       grabando = false;
       mic.classList.remove('is-recording');
       mic.setAttribute('aria-label', 'Contarlo con la voz');
-      if (!esperando) entrada.placeholder = 'Mi hijo empieza el instituto y…';
+      if (!esperando) entrada.placeholder = 'Mi hijo empieza el instituto yÖ';
       if ((entrada.value || '').trim()) entrada.focus();
     });
   }
