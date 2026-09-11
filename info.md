@@ -1,6 +1,8 @@
 # APRENTELL — DOSIER MAESTRO DE VENTA
+
 ### Documento de contexto para el informador de IA de aprentell.com
-**Versión 2 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario) + documento *Trayectoria* + estado general del proyecto
+
+**Versión 3 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
 
 ---
 
@@ -10,7 +12,7 @@ Este documento sirve para **vender**. Alguien cuenta su situación y tú le ofre
 
 ### Reglas duras
 
-1. **No inventes nada.** Ningún precio, fecha, enlace, ISBN ni descuento que no esté aquí. Lo que aparece como `[PENDIENTE]` está pendiente de verdad.
+1. **No inventes nada.** Ningún precio, fecha, enlace, ISBN ni descuento que no esté aquí. Lo que aparece como [PENDIENTE] está pendiente de verdad.
 2. **Copia los enlaces literalmente.** Un carácter cambiado rompe la compra.
 3. **No publiques el apartado 9** (tarifas de colaboración con entidades). Es información interna.
 4. **Los cursos para familias no se venden a personas particulares.** Solo los contratan AMPAs, AFAs, centros educativos y entidades. Ver apartado 5, que es la fuente de error más probable.
@@ -20,7 +22,7 @@ Este documento sirve para **vender**. Alguien cuenta su situación y tú le ofre
 ### Orden de prioridad al recomendar
 
 | Prioridad | Qué ofreces | A quién |
-|---|---|---|
+| --- | --- | --- |
 | **1ª — absoluta** | **La guía personalizada (Tria-t), 40 €** | Cualquier persona que estudie o acompañe a alguien que estudia. Es lo primero que hay que ofrecer casi siempre. |
 | **2ª** | **Publicaciones digitales, 9 €** | Quien quiere empezar por poco dinero, quien busca un tema concreto, quien prefiere leer antes de hablar con nadie. |
 | **3ª** | **Experiencias presenciales** | Quien está en València y le apetece vivir algo, o busca un regalo distinto. |
@@ -28,11 +30,26 @@ Este documento sirve para **vender**. Alguien cuenta su situación y tú le ofre
 
 Una recomendación, dos como mucho. Nunca la lista entera.
 
+### Qué producto tocar según lo que cuentan
+
+| Lo que dice quien escribe | Qué ofrecer |
+| --- | --- |
+| "No me concentro", "me distraigo" | Guía personalizada · *Concentración para oposiciones* (si es opositor) · *Mejorar su concentración* (si es una familia) |
+| "Estoy agotado", "no puedo más con el ritmo" | Guía personalizada · *Impulsa tu estudio* |
+| "Mi hijo empieza el instituto" | *Cambios de primaria a secundaria* · guía personalizada |
+| "Discutimos por los deberes / por las pantallas" | *Autocontrol y responsabilidad* · guía personalizada |
+| "Copia todo con ChatGPT" | *¿Estudiar con inteligencia artificial?* |
+| "Estudio mucho y no retengo" | Guía personalizada · *Foto-síntesis* |
+| "Quiero regalar algo distinto" | *Blicklick · Publicación* (46,80 €) · entrada de la experiencia Blicklick |
+| "Soy de una AMPA / un centro" | Cursos para familias (apartado 5) |
+
 ---
 
 ## 1. QUÉ ES APRENTELL (lo justo para situar)
 
 **Una editorial de ideas para estudiar y aprender.** Fundada en 2011 por Carles Hernández Coscollà, con sede en València.
+
+Tagline oficial: **Ideas para estudiar y aprender.**
 
 Lo que la distingue: **no enseña materias**. No compite con academias ni con profesores particulares. Se ocupa del *cómo* se estudia. Y personaliza: no hay un método que se aplique igual a todo el mundo.
 
@@ -62,12 +79,16 @@ Cercano, claro, interesado. Frases cortas. Concreto antes que abstracto. **Nada 
 
 Un documento de estudio escrito a medida para una persona concreta, después de escuchar cómo estudia de verdad.
 
+**Descripción corta oficial:** una guía de estudio hecha a medida, con ideas escogidas y desarrolladas para ti, lista para poner en práctica desde el primer día.
+
 ### Cómo funciona
 
 1. **Se reserva el día** en Calendly, el que mejor venga.
-2. **Se hace una entrevista** por videoconferencia. También puede hacerse por audios de WhatsApp, para quien prefiera responder cuando le vaya bien sin cuadrar agenda. Se habla de cómo estudia: concentración, comprensión, organización, memoria, expresión, descanso.
+2. **Se hace una entrevista** de una hora por videoconferencia. También puede hacerse por audios de WhatsApp, para quien prefiera responder cuando le vaya bien sin cuadrar agenda. Se habla de cómo estudia: concentración, comprensión, organización, memoria, expresión, descanso.
 3. **Se escribe la guía.** De entre cerca de mil formas de estudiar se eligen las que encajan con esa persona y se desarrollan una a una.
 4. **Se recibe el documento.** Es suyo, para volver a él siempre que haga falta.
+
+**Importante al explicarlo:** la conversación es el punto de partida, pero **lo que se compra es la guía que se redacta después**. No es una sesión de asesoramiento: es un documento.
 
 ### Qué hay dentro del documento
 
@@ -108,32 +129,50 @@ La diferencia con una lista de técnicas de estudio es la misma que entre una li
 ### Datos de venta
 
 | Dato | Valor |
-|---|---|
+| --- | --- |
 | Precio | 40 € |
 | Página | https://www.aprentell.com/triat |
-| Formato | Entrevista por videoconferencia (o audios de WhatsApp) + documento escrito |
+| Otras URLs en uso | www.aprentell.com/guia · www.aprentell.com/guias *(ver pendiente nº 2)* |
+| Formato | Entrevista de 1 h por videoconferencia (o audios de WhatsApp) + documento escrito |
 | Prueba social | Más de 200 personas tienen ya su guía |
+| Briefing interno | https://docs.google.com/document/d/1zZD4JtTFmBxr8nz8-Bqo6khsFs2cga0nkjpZfNpMSZg/edit?tab=t.0 |
 
 **Dos vías de reserva. ⚠️ Atención al guion final del enlace:**
 
 | Vía | Cómo funciona | Enlaces |
-|---|---|---|
+| --- | --- | --- |
 | **A — pago primero** | Paga en Stripe y al terminar recibe el enlace de Calendly sin pago para elegir día. | Stripe: https://book.stripe.com/cNieVcbkMccT3BYc0K8IU0i · Calendly **sin cobro**: https://calendly.com/aprentell/guia- |
-| **B — reserva y pago a la vez** (la de la web) | Elige día y paga en el mismo paso. Recibe la confirmación automáticamente. | Calendly **con cobro**: https://calendly.com/aprentell/guia |
+| **B — reserva y pago a la vez** (la de la web) | Elige día y paga en el mismo paso. Recibe el Zoom automáticamente. Los cupones se aplican dentro de Calendly, con los mismos nombres y cantidades que en Stripe. | Calendly **con cobro**: https://calendly.com/aprentell/guia |
 
 **Regla: `/guia` cobra · `/guia-` no cobra.**
 
 - Stripe buy-button-id (Vía A): `buy_btn_1TZUGaBcVTg9s8mvUZgtJxwm`
 - Widget de Calendly: parámetros `hide_event_type_details=1&hide_gdpr_banner=1&primary_color=798113`
 
+### Texto de anuncio disponible (para reutilizar en campañas)
+
+> Estudiar no debería ser un esfuerzo, sino un placer. Pero muchas veces no lo es: el cansancio que no se va por mucho que insistas, lo que cuesta arrancar, la cabeza que a los pocos minutos ya está en otra parte.
+>
+> Hoy sobran métodos, y la IA te suelta un puñado de trucos en segundos. Pero aprender es complejo y personal: lo que le funciona a otro, a ti puede no decirte nada. Lo difícil no es encontrar formas de estudiar, sino dar con las tuyas.
+>
+> Por eso existen las guías de Aprentell. Nos conocemos, hablamos de cómo estudias, y de ahí sale lo que de verdad te llevas: un documento tuyo. Una guía a medida con las ideas escogidas entre más de mil formas de estudiar, las que encajan contigo, desarrolladas una a una —con ejemplos, con opciones para probarlas, con comentarios pensados para tu caso— y listas para usar desde el primer día.
+>
+> Funciona fácil: reservas una hora el día que mejor te venga, hablamos con calma para ver cuál es tu mejor manera de aprender, y recibes tu guía, escrita a mano para ti.
+>
+> Porque estudiar también se puede disfrutar. Y todo empieza eligiendo un día.
+
 ### Regala una guía
 
 Existe como opción: la entrada puede ir a nombre de otra persona, que reserva su día con el enlace https://calendly.com/aprentell/guia-
-Precio y enlace de compra propios: `[PENDIENTE]`.
+
+- Precio: [PENDIENTE — confirmar si son los mismos 40 €]
+- Descripción: [PENDIENTE]
+- Link de compra Stripe: [PENDIENTE — Payment Link propio]
+- Botón: [PENDIENTE — el buy-button-id disponible es el mismo que el de la guía normal; comprobar en Stripe si es un producto aparte]
 
 ### Suscripción semanal — 110 €/semana
 
-Para quien quiere acompañamiento sostenido. Un contacto individual cada semana, por videoconferencia o por audios de WhatsApp, con seguimiento continuo. La guía se actualiza semana a semana: lo que funciona se refuerza, lo que no se cambia, y cada sesión añade ideas nuevas al documento.
+Para quien quiere acompañamiento sostenido. Un contacto individual cada semana, por videoconferencia o por audios de WhatsApp, con seguimiento continuo entre sesiones. La guía se actualiza semana a semana: lo que funciona se refuerza, lo que no se cambia, y cada sesión añade ideas nuevas al documento. Un acompañamiento sostenido para quien quiere transformar su estudio de forma profunda.
 
 - Reserva: https://calendly.com/aprentell/consulta *(la URL conserva un nombre antiguo; no cambiarla)*
 - Stripe: https://buy.stripe.com/eVqbJ0ewY90H3BY9SC8IU0g
@@ -148,26 +187,33 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 
 **Cómo venderlas:** son la puerta de entrada barata. Quien tiene un problema muy concreto y no quiere gastar 40 €, empieza por aquí. Y siempre se puede sugerir después la guía, que es lo que de verdad personaliza.
 
+**Clave pública de Stripe, la misma para todos los botones:**
+`pk_live_51OX1fIBcVTg9s8mvQ7sPrjfPY3YM1unWeuV4EPk5Aq2yY25QJKOg1qODUpb0iMG0ig2DW3SBfBmqTG1k3QHXfnak00nsHgL2rw`
+
 ### Resumen rápido
 
-| Título | Precio | Páginas | Para quién |
-|---|---|---|---|
-| Concentración para oposiciones | 9 € | 41 | Opositores |
-| Impulsa tu estudio | 9 € | `[PENDIENTE]` | Quien no puede con el cansancio |
-| Foto-síntesis | 9 € | 48 | Secundaria, universidad, oposiciones |
-| Autocontrol y responsabilidad | 9 € | 50 | Familias |
-| Cambios de primaria a secundaria | 9 € | 69 | Familias con hijos de 11-13 años |
-| Mejorar su concentración | 9 € | 53 | Familias que acompañan el estudio en casa |
-| Blicklick · Publicación | 46,80 € | 101 | Regalo, juego para descubrir qué aprender |
-| Progetti | Gratis | `[PENDIENTE]` | Docentes y curiosos |
+| Título | Precio | Páginas | ISBN | Para quién |
+| --- | --- | --- | --- | --- |
+| Concentración para oposiciones | 9 € | 41 | 978-84-09-74294-3 | Opositores |
+| Impulsa tu estudio | 9 € | [PENDIENTE] | 978-84-09-87253-4 | Quien no puede con el cansancio |
+| Foto-síntesis | 9 € | 48 | [PENDIENTE] | Secundaria, universidad, oposiciones |
+| Autocontrol y responsabilidad | 9 € | 50 | [PENDIENTE] | Familias |
+| Cambios de primaria a secundaria | 9 € | 69 | [PENDIENTE] | Familias con hijos de 11-13 años |
+| Mejorar su concentración | 9 € | 53 | [PENDIENTE] | Familias que acompañan el estudio en casa |
+| ¿Estudiar con inteligencia artificial? | 9 € | 103 | [PENDIENTE] | Familias con hijos en primaria y secundaria |
+| Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Regalo, juego para descubrir qué aprender |
+| Progetti | Gratis | [PENDIENTE] | [PENDIENTE] | Docentes y curiosos |
 
----
+Las cuatro marcadas como **Colección Libro de familias** son *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración* y *¿Estudiar con inteligencia artificial?*. Cada una corresponde a un curso para familias del apartado 5: son el mismo contenido, convertido en libro.
 
-### 3.1 Concentración para oposiciones · 9 €
+### 3.1 Concentración para oposiciones · 9 € (IVA incluido)
+
+Categoría: libro digital · guía online con podcast.
 
 Guía online con podcast para dominar la concentración durante la preparación de una oposición. Cinco bloques: distracción, músculo atencional, presencia, artesanía y calidad. Con estrategias prácticas, apps recomendadas, libros clave y un episodio de podcast por capítulo.
 
 - ISBN 978-84-09-74294-3 · 41 páginas
+- Portada: https://drive.google.com/file/d/14CK6x-SKS5LMaRtlbGsPavZY6v71lAY_/view?usp=drive_link
 - Descarga: https://drive.google.com/uc?export=download&id=1BuPHuAsdx9LbY0afAO9Ielk5jg-oWCIC
 - Compra: https://buy.stripe.com/bJeaEW4WodgXgoKd4O8IU0e
 - buy-button-id: `buy_btn_1TYlQ8BcVTg9s8mvM0fVG3KE`
@@ -176,7 +222,8 @@ Guía online con podcast para dominar la concentración durante la preparación 
 
 Guía para dar fuerza y continuidad al estudio cuando el cansancio aprieta, con más de treinta propuestas concretas para elegir, adaptar y hacer propias.
 
-- ISBN 978-84-09-87253-4
+- ISBN 978-84-09-87253-4 · páginas [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1QnZGxOPg4fWGi1fCXi6uKyydO0-JKsyN/view?usp=drive_link
 - Descarga: https://drive.google.com/uc?export=download&id=1H7YPN1S__5tHYG9535FOVr1DsOgpz9uE
 - Compra: https://buy.stripe.com/4gMdR82Ogel1c8u6Gq8IU0h
 - buy-button-id: `buy_btn_1TZTRCBcVTg9s8mv0POzHfyq`
@@ -185,16 +232,19 @@ Guía para dar fuerza y continuidad al estudio cuando el cansancio aprieta, con 
 
 *Collage sobre treinta y dos formas de estudiar con una cámara en el bolsillo.*
 
-Treinta y dos maneras de usar la cámara del móvil como herramienta de estudio. No es un manual de técnicas ni un curso de fotografía. Suma cuatro cosas:
+**Resumen:** libro digital que recoge treinta y dos maneras de utilizar la cámara del móvil como herramienta de estudio. Combina propuestas de aplicación práctica, referencias científicas e históricas y veinticinco fotografías documentadas, con anexo de enlaces y bibliografía.
 
-- **Ideas.** Propuestas aplicables desde el primer día: fotografiar la pizarra antes de que la borren, escribir un problema en grande y dispararlo, apuntar a las juntas y no al mueble entero, salir a la calle con el tema en la cabeza.
-- **Ciencia.** Por qué funciona: una foto detiene, separa, aísla, acumula y obliga a decidir qué entra en el encuadre. Pasa por Ingenhousz, por Ramón y Cajal, por Röntgen.
-- **Historias.** Gente real estudiando. Un conserje que se pasó años fotografiando pizarras. Wilson Bentley y cuarenta y seis inviernos retratando cristales de nieve.
-- **Estética.** Veinticinco fotografías documentadas: Marte en 1976, las algas de Anna Atkins, el campo profundo del James Webb.
+No es un manual de técnicas ni un curso de fotografía. Suma cuatro cosas:
 
-Con el aviso por delante: fotografiar no es estudiar. La cámara abre la puerta; entrar es otra cosa.
+- **Ideas.** Propuestas aplicables desde el primer día: fotografiar la pizarra antes de que la borren, escribir un problema en grande y dispararlo, apuntar a las juntas y no al mueble entero, salir a la calle con el tema en la cabeza, dejar un rastro fechado de cada sesión con una línea escrita debajo de la imagen.
+- **Ciencia.** Por qué funciona: una foto detiene, separa, aísla, acumula y obliga a decidir qué entra en el encuadre. Pasa por Ingenhousz y los quinientos experimentos de un verano, por Ramón y Cajal aprendiendo química a los dieciséis años para revelar sus propias placas, por Röntgen.
+- **Historias.** Gente real estudiando: Juan, Maite, Carmen, Íñigo, Ana, Jesús. Un conserje que se pasó años fotografiando pizarras. Wilson Bentley y cuarenta y seis inviernos retratando cristales de nieve en una granja de Vermont.
+- **Estética.** Veinticinco fotografías documentadas: Marte en 1976, la mano de Anna Bertha Ludwig, las algas de Anna Atkins, el campo profundo del James Webb.
 
-- 48 páginas · ISBN `[PENDIENTE]`
+Para estudiantes de secundaria, universidad y oposiciones, y para cualquiera que quiera que lo aprendido deje huella. Con el aviso por delante: fotografiar no es estudiar. La cámara abre la puerta; entrar es otra cosa.
+
+- 48 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1gDZ3UVIC5IctfAD_B54__4YCDgZXsRYA/view?usp=drive_link
 - Descarga: https://drive.google.com/uc?export=download&id=11GvCb8y3BMR0ijWCe91nbnm3HjqoPT6r
 - Lectura sin descarga: https://drive.google.com/file/d/11GvCb8y3BMR0ijWCe91nbnm3HjqoPT6r/view?usp=sharing
 - Compra: https://buy.stripe.com/00w4gy3SkccTdcyaWG8IU0o
@@ -202,63 +252,109 @@ Con el aviso por delante: fotografiar no es estudiar. La cámara abre la puerta;
 
 ### 3.4 Autocontrol y responsabilidad · 9 € · (Libro de familias)
 
-Un libro para mirar de otra manera el autocontrol, la frustración y la responsabilidad. Parte de una idea reveladora: lo que hoy nos parece "criar normal" —órdenes, premios y castigos— es reciente. Nació en las fábricas de principios del siglo XX, pasó a las escuelas y se coló en los hogares. Y lleva justo a lo contrario de lo que busca: más frustración, más sobreprotección, más irresponsabilidad.
+Autor: Carles Hernández Coscollà.
 
-Dos partes: *El aroma del autocontrol* (cómo se intenta fabricar el control desde fuera) y *La savia de la responsabilidad* (cómo crece desde dentro, sobre tres patas: poner límites, dar permiso y provocar). Con propuestas concretas para casa: conversaciones en frío, tareas compartidas de verdad, juego con riesgo, cartas al yo del pasado.
+**Descripción corta:** criar a base de órdenes, premios y castigos parece lo normal, pero es reciente y empuja justo hacia la frustración y la irresponsabilidad. Este libro propone el otro camino —límites, permiso y provocación— con propuestas concretas para que la responsabilidad crezca desde dentro.
 
-- 50 páginas · ISBN `[PENDIENTE]`
+Un libro para mirar de otra manera el autocontrol, la frustración y la responsabilidad. Parte de una idea reveladora: lo que hoy nos parece "criar normal" —órdenes, premios y castigos— es reciente. Nació en las fábricas de principios del siglo XX, pasó a las escuelas y se coló en los hogares hasta volverse el aire que respiramos. Y lleva justo a lo contrario de lo que busca: más frustración, más sobreprotección, más irresponsabilidad.
+
+Dos partes. *El aroma del autocontrol*: toda orden abre solo dos caminos —obedecer (el de la fábrica) o negociar (el de la empresa)—, y los dos acaban vaciando las cosas de sentido, hasta que nada se hace por lo que vale, sino por lo que da. *La savia de la responsabilidad*: cómo crece desde dentro, sobre tres patas —poner límites, dar permiso y provocar—. Con propuestas concretas para casa: conversaciones en frío, tareas compartidas de verdad, grupos de estudio, juego con riesgo, fotos que dan valor, cartas al yo del pasado.
+
+- 50 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/19WX_3gnDfX0WLOy0223KbD_KFTHf2iv2/view?usp=drive_link
 - Descarga: https://drive.google.com/uc?export=download&id=1223JX7JS8DmXN_F7NLKX5Nj3d8cuZLRd
+- Vista en Drive: https://drive.google.com/file/d/1223JX7JS8DmXN_F7NLKX5Nj3d8cuZLRd/view?usp=drive_link
 - Compra: https://buy.stripe.com/bJe9ASbkM6SzgoKfcW8IU0l
 - buy-button-id: `buy_btn_1TnwoOBcVTg9s8mvfCOsI5Me`
 
-### 3.5 Cambios de primaria a secundaria · 9 € · (Libro de familias)
+### 3.5 Cambios de primaria a secundaria · 9 € (IVA incluido) · (Libro de familias)
 
-El paso al instituto concentra en pocos meses casi todos los cambios de la escolaridad: de tres profesores a diez, de un colegio conocido a un centro grande, y todo alrededor de los doce años. En casa el efecto principal es que **el estudio deja de verse**. Lo que antes pasaba en la mesa del comedor ocurre ahora donde la familia no está, y la vía habitual para enterarse es preguntar, algo que a base de repetirse acaba dando el resultado contrario.
+Autor: Carles Hernández Coscollà.
 
-Cinco vías de trabajo, con propuestas que cuestan entre cinco minutos y media hora. No van numeradas y no hay que hacerlas todas. Incluye un capítulo sobre cómo funciona la ESO y bibliografía comentada.
+**Resumen en una línea:** un libro para acompañar el paso de primaria a secundaria, con cinco vías de trabajo y propuestas breves para casa.
 
-- 69 páginas · ISBN `[PENDIENTE]`
+**Descripción corta:** en secundaria el estudio deja de verse y preguntar acaba dando el resultado contrario. Este libro propone cinco vías de trabajo con propuestas breves para acompañar el cambio desde casa.
+
+El paso al instituto concentra en pocos meses casi todos los cambios de la escolaridad: de tres profesores a diez, de un colegio conocido a un centro grande, y todo alrededor de los doce años, cuando además está cambiando todo lo demás. En casa el efecto principal es que **el estudio deja de verse**. Lo que antes pasaba en la mesa del comedor ocurre ahora donde la familia no está, y la vía habitual para enterarse es preguntar, algo que a base de repetirse acaba dando el resultado contrario.
+
+Cinco vías de trabajo, con propuestas que cuestan entre cinco minutos y media hora. No van numeradas y no hay que hacerlas todas: se eligen las que encajen y se mezclan con lo que ya se hace en casa. Incluye un capítulo previo sobre cómo funciona la ESO y de dónde viene, y cierra con bibliografía comentada. Para familias que estrenan el cambio y también para las que ya lo pasaron con un hijo mayor.
+
+- 69 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/12fZotMFZlXMOmHPmMjA04UhyBb-UBlow/view?usp=drive_link
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=12fZotMFZlXMOmHPmMjA04UhyBb-UBlow
 - Descarga: https://drive.google.com/uc?export=download&id=1zOzHZSnYM9QvVLlhcdvHUpsLipZDQ15z
+- Vista en Drive: https://drive.google.com/file/d/1zOzHZSnYM9QvVLlhcdvHUpsLipZDQ15z/view?usp=drive_link
 - Compra: https://buy.stripe.com/28E28qgF6fp55K68Oy8IU0p
 - buy-button-id: `buy_btn_1UBEgYBcVTg9s8mvUXLjT7RJ`
 
-### 3.6 Mejorar su concentración · 9 € · (Libro de familias)
+### 3.6 Mejorar su concentración · 9 € (IVA incluido) · (Libro de familias)
 
-Decir «concéntrate» es pedir magia. La concentración no se exige, se prepara, y las condiciones que la hacen aparecer casi nunca están dentro de la cabeza de quien estudia: están en la mesa, en la hora, en el ruido y en lo que ha pasado media hora antes. Ahí sí se puede hacer algo desde fuera.
+Autor: Carles Hernández Coscollà.
 
-Cuatro recorridos —ambientar dónde se estudia, activar el arranque, acompañar sin vigilar y dejar rastro de una tarde para la siguiente— con veintiuna propuestas concretas, la mayoría de cinco minutos o de una sola vez. Ninguna ocurre mientras se estudia: todas viven antes, después o alrededor. Con que una encaje y aguante un mes, ya ha servido.
+**Resumen en una línea:** un libro para acompañar la concentración de quien estudia en casa, con cuatro recorridos y veintiuna propuestas concretas para la tarde.
 
-Para familias que acompañan el estudio en casa, de primaria a bachillerato.
+**Descripción corta:** la concentración no se exige, se prepara. Cuatro recorridos —ambientar, activar, acompañar y dejar rastro— con veintiuna propuestas breves para poner las condiciones desde casa.
 
-- 53 páginas · ISBN `[PENDIENTE]`
+Decir «concéntrate» es pedir magia. Las condiciones que hacen aparecer la concentración casi nunca están dentro de la cabeza de quien estudia: están en la mesa, en la hora, en el ruido y en lo que ha pasado media hora antes. Ahí sí se puede hacer algo desde fuera.
+
+Cuatro recorridos —ambientar dónde se estudia, activar el arranque, acompañar sin vigilar y dejar rastro de una tarde para la siguiente— con veintiuna propuestas, la mayoría de cinco minutos o de una sola vez. Ninguna ocurre mientras se estudia: todas viven antes, después o alrededor. Con que una encaje y aguante un mes, ya ha servido. Para familias que acompañan el estudio en casa, de primaria a bachillerato.
+
+- 53 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1hhmeQG4Lo6S_jvlVLuPA76JuBktJxelG/view?usp=drive_link
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1hhmeQG4Lo6S_jvlVLuPA76JuBktJxelG
 - Descarga: https://drive.google.com/uc?export=download&id=1rDhHU8sN_fVPJHSGpg0FnpfCOOl6vJgM
 - Lectura sin descarga: https://drive.google.com/file/d/1rDhHU8sN_fVPJHSGpg0FnpfCOOl6vJgM/view?usp=sharing
 - Compra: https://buy.stripe.com/14AbJ00G85Ov3BYfcW8IU0r
 - buy-button-id: `buy_btn_1UDPfwBcVTg9s8mvrxXYH02Q`
 
-### 3.7 Blicklick · Publicación · 46,80 €
+> ⚠️ En la tienda aparece un segundo enlace de Stripe para este libro (`.../7sY3cu74wel16Oa9SC8IU0q`), aparentemente antiguo. **Usar siempre el de arriba.** Ver pendiente nº 11.
 
-*Un nuevo saber por descubrir.* Publicación digital para imprimir en casa, de la serie Estiu.
+### 3.7 ¿Estudiar con inteligencia artificial? · 9 € (IVA incluido) · (Libro de familias)
 
-Un juego para descubrir qué te apetece aprender, y empezar a hacerlo. Se abre con un libro que explica cómo usarlo y despliega dos actos. En **Blick** recorres un mapa con cien saberes posibles y eliges el tuyo, o inventas uno que no esté. En **Klick** entra el mazo de cartas: por parejas, otra persona enriquece tu saber con ideas, retos y trampas buenas, hasta montar una colección de unas cincuenta tarjetas.
+Subtítulo: *La pregunta es nuestra.* Autor: Carles Hernández Coscollà.
 
-Incluye todo lo necesario para imprimir: libro de explicación, revista Blick, mapa de saberes, juego Klick y tarjetas. Para mayores de 16 años. **Buen regalo.**
+**Resumen en una línea:** un libro para familias que explica cómo prevenir el mal uso de la inteligencia artificial en el estudio —que es usarla para no tener que aprender— y cómo aprovechar las oportunidades que ofrece para aprender mejor, con propuestas concretas para hacer en casa.
+
+La inteligencia artificial puede servir para entender un tema o para entregar un trabajo sin haber entendido nada, y desde fuera las dos cosas parecen iguales. Este libro no discute si la IA es buena o mala: explica qué se puede hacer con ella en casa cuando hay algo que estudiar. Primero cuenta cómo funciona y qué herramientas hay hoy. Después se ocupa de la prevención, centrada en el riesgo de usarla para no aprender, con costumbres concretas como escribir primero a mano o acompañar sin vigilar. Y termina con las oportunidades: pedir ejercicios a medida, explicarle el tema a la IA para comprobar si se ha entendido, convertir los apuntes en un podcast. Para familias con hijos en primaria y secundaria.
+
+- 103 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1uCQHGelGK6xhfmgVRzMCuDksxKNYKg9f/view?usp=drive_link
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1uCQHGelGK6xhfmgVRzMCuDksxKNYKg9f
+- Descarga: https://drive.google.com/uc?export=download&id=1sTCsWp9iQ4pOu-qltOsEF6_w8q4ZCAi7
+- Vista en Drive: https://drive.google.com/file/d/1sTCsWp9iQ4pOu-qltOsEF6_w8q4ZCAi7/view?usp=drive_link
+- Compra: https://buy.stripe.com/aFa5kC9cEdgXc8u2qa8IU0s
+- buy-button-id: `buy_btn_1UEZwnBcVTg9s8mvhdrhukev`
+
+### 3.8 Blicklick · Publicación · 46,80 € (IVA incluido)
+
+*Un nuevo saber por descubrir.* Publicación digital **para imprimir** en casa, de la serie Estiu.
+
+**Descripción corta:** Blicklick es un juego para descubrir qué te apetece aprender y empezar a hacerlo: un mapa con cien saberes para elegir el tuyo y un juego de cartas para llenarlo de ideas, retos y pistas. En versión para imprimir, con libro de explicación, revista, mapa, juego y unas cincuenta tarjetas.
+
+Se abre con un pequeño libro que explica de qué va todo y cómo usarlo, y despliega dos actos. En **Blick** recorres un mapa con cien saberes posibles y eliges el tuyo, o te inventas uno que no esté: es el momento de darte permiso para querer aprender algo porque sí. En **Klick** entra el mazo de cartas: por parejas, otra persona enriquece tu saber con ideas, retos y trampas buenas, hasta montar tu propia colección de unas cincuenta tarjetas.
+
+No hace falta preparar nada ni saber de antemano qué quieres aprender: precisamente eso es lo que el juego ayuda a descubrir. Para mayores de 16 años, para regalar o regalarse. **Buen regalo.**
 
 - ISBN 978-84-09-89055-2 · 101 páginas
+- Logo principal: https://drive.google.com/uc?export=view&id=105CDGKDHUdRmO6oMhz_kxeB7XKhh2chL
+- Carpeta de logos: https://drive.google.com/drive/folders/17JAFAn7DmXZipD0inSWYNVNBmkDbi8c6
 - Descarga: https://drive.google.com/uc?export=download&id=1mjoY30yuQ6ffz0uUBjS-XNXAybMLEttF
 - Compra: https://buy.stripe.com/9B63cu0G86Sz1tQgh08IU0n
 - buy-button-id: `buy_btn_1TqqrWBcVTg9s8mv9FNkhdl6`
 
-### 3.8 Progetti · gratuito
+### 3.9 Progetti · gratuito (0 €)
 
 *De la Roma renacentista al aprender a aprender presente.* Artículo digital de Carles Hernández i Coscollà.
 
-La palabra «proyecto» nació en la Roma del siglo XVI, en boca de arquitectos que diseñaban palacios que nunca se construirían. El artículo recorre cuatro siglos de historia del aprendizaje basado en proyectos: de la Accademia di San Luca a los talleres de la Rusia zarista, de Dewey y Kilpatrick a la *progettazione* de Reggio Emilia y los proyectos de trabajo de Fernando Hernández en Barcelona.
+La palabra «proyecto» nació en la Roma del siglo XVI, en boca de arquitectos que diseñaban palacios que nunca se construirían. El artículo recorre más de cuatro siglos de historia del aprendizaje basado en proyectos: de la Accademia di San Luca a los talleres de la Rusia zarista, de Dewey y Kilpatrick a la *progettazione* de Reggio Emilia y los proyectos de trabajo de Fernando Hernández en Barcelona. Desemboca en una idea sencilla y radical: el centro de la educación no es la materia ni el resultado, sino el proceso mismo de aprender, y hacerlo consciente.
 
-Útil para docentes y para cualquiera con curiosidad. **Es gratis: buena carta de presentación** cuando alguien duda.
+Para docentes, familias y curiosos. **Es gratis: buena carta de presentación** cuando alguien duda.
 
+- Páginas [PENDIENTE] · ISBN [PENDIENTE — si se le asigna]
+- Portada: https://drive.google.com/file/d/1t3KTZ5EX5XayEGum5VQOmh3XpwvGIt5T/view?usp=drive_link
 - Lectura: https://drive.google.com/file/d/1EssMy22OlvmLN578duv1JXTjw5VEUv1I/view?usp=drive_link
 - Descarga: https://drive.google.com/uc?export=download&id=1EssMy22OlvmLN578duv1JXTjw5VEUv1I
+- Compra Stripe: [PENDIENTE — crear Payment Link gratuito si se decide]
 
 ---
 
@@ -276,7 +372,9 @@ Página: www.aprentell.com/experiencias
 - **Dónde:** L&H Gran Vía Valencia, Gran Via de Ferran el Catòlic 63.
 - **Aforo:** diez personas. A partir de 16 años.
 
-Diez personas se sientan a elegir algo que aprender por gusto: explorar una ciudad, hacer postres, dibujar retratos, aprender tres canciones de bossa nova. Dos actos: en **Blick** recorres un mapa con cien saberes y eliges el tuyo, con una revista de historias de gente que ya hizo lo suyo. En **Klick** juegas a las cartas por parejas y otra persona enriquece tu saber con ideas, retos y trampas buenas. Te llevas a casa una caja con mapa, revista y unas cincuenta tarjetas.
+**Descripción corta:** tres horas para elegir algo que aprender por gusto y llenarlo de ideas. Un mapa con cien saberes, un juego de cartas por parejas y una caja con unas cincuenta tarjetas que te llevas a casa.
+
+Diez personas se sientan a elegir algo que aprender por gusto: explorar una ciudad, hacer postres, dibujar retratos, aprender tres canciones de bossa nova. Dos actos: en **Blick** recorres un mapa con cien saberes y eliges el tuyo, con una revista de historias de gente que ya hizo lo suyo. En **Klick** juegas a las cartas por parejas y otra persona enriquece tu saber con ideas, retos y trampas buenas. Todo incluido: mapa, revista, mazo, tarjetas y caja.
 
 **Argumentos reales para cerrar la venta:**
 
@@ -286,6 +384,8 @@ Diez personas se sientan a elegir algo que aprender por gusto: explorar una ciud
 - Solo diez plazas.
 
 Compra: https://www.eventbrite.es/e/entradas-blicklick-experiencia-saber-por-gusto-1999512555880
+
+Datos del widget de Eventbrite: `eventId: 1999512555880` · brandColor `#798113` · fontColor `#000000` · background `#FFFFFF`.
 
 ### 4.2 Las otras experiencias compuestas
 
@@ -314,13 +414,13 @@ Una familia sola **no puede comprar un curso**. Un curso es una sesión para un 
 ### Qué ofrecer entonces a una familia particular
 
 1. **La guía personalizada (40 €).** Es la vía prioritaria. Sirve tanto para entender cómo estudia un hijo o una hija como para saber cómo acompañarle.
-2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*.
+2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración* y *¿Estudiar con inteligencia artificial?*.
 3. **Sugerirle que lo proponga a su AMPA.** Si le interesa el curso, puede pasarle el contacto de Aprentell a la asociación de su centro. Eso sí se puede hacer, y es una vía habitual.
 
 ### Datos del curso (para cuando quien escribe sí es una entidad)
 
 | Dato | Valor |
-|---|---|
+| --- | --- |
 | Formato | Una sesión de hora y media (unos 90 minutos) |
 | Precio | **90 € presencial** · **80 € online** |
 | Idiomas | Castellano o valenciano |
@@ -330,62 +430,98 @@ Una familia sola **no puede comprar un curso**. Un curso es una sesión para un 
 | Pago | https://book.stripe.com/00w5kCdsUel18Wi2qa8IU0f |
 | buy-button-id | `buy_btn_1TYljfBcVTg9s8mv98hVStFB` |
 
-La familia se lleva un repertorio de propuestas para poner en marcha desde el mismo día, más todo el material: ideas, textos y podcast.
+**Descripción comercial:** una sesión práctica de hora y media donde la familia se lleva un repertorio de propuestas concretas para poner en marcha desde el mismo día. Se elige el tema que más preocupe y se trabaja con una mirada nueva, sin exigencias, poniendo en valor lo que ya se hace bien. Después del curso se llevan todo el material —ideas, textos y podcast— para repasarlo cuando quieran.
 
-**Cómo se reserva:** (1) se reserva en Calendly, un curso por cada fecha y tema; (2) llega la confirmación por correo; (3) Aprentell contacta para concretar detalles; (4) se imparte; (5) después se envía el enlace de pago de Stripe; (6) se emite la factura al mismo correo.
+**Cómo se reserva:** (1) se reserva en Calendly, un curso por cada fecha y tema (para varios cursos se repite el proceso); (2) llega la confirmación por correo; (3) Aprentell contacta para concretar detalles y dar consejos de organización; (4) se imparte; (5) después se envía el enlace de pago de Stripe, solo o agrupando varios; (6) se emite la factura al mismo correo.
 
-Quien prefiera pedir información antes de reservar puede escribir a aprentell@gmail.com.
+Quien prefiera pedir información antes de reservar puede escribir a aprentell@gmail.com. Aun así, la vía habitual es Calendly.
 
 ### Catálogo de cursos
 
 Cada uno tiene su PDF y un podcast en iVoox, en castellano y en valenciano.
 
-1. **¿Estudiar con inteligencia artificial?** Cómo acompañar el estudio en un mundo lleno de IA, con el pensamiento propio en el centro. Ni miedo ni fascinación. Distingue entre delegar lo que conviene delegar y proteger lo que nunca deberíamos soltar.
-   Podcast: https://go.ivoox.com/rf/161593247
-2. **Autocontrol, frustración y responsabilidad.** Por qué lo que hacemos en casa con la mejor intención produce a veces lo contrario, y qué otro camino existe.
-   Podcast: https://go.ivoox.com/rf/161422617
-3. **Adicciones a las pantallas.** Por qué enganchan tanto —y no es falta de voluntad— y qué hacer desde la comprensión y no desde el pánico.
-   Podcast: https://go.ivoox.com/rf/161013967
-4. **Atención y concentración.** Preparar las condiciones, sostener la atención y trabajar el contenido de formas que ayuden a entenderlo.
-   Podcast: https://go.ivoox.com/rf/167372793
-5. **Comunicación con adolescentes.** El clima de casa, los límites sin violencia y el reconocimiento.
-   Podcast: https://go.ivoox.com/rf/163146829
-6. **Procrastinación: el "ya lo haré luego".** Conciencia del tiempo, organización, coleccionar logros, los pozos de tiempo y la activación.
-   Podcast: https://go.ivoox.com/rf/160817124
-7. **Cambios de primaria a secundaria.** Relaciones y estudio, con datos que desmontan miedos. Acompañar bien es más útil que controlar mucho.
-   Podcast: https://go.ivoox.com/rf/173357930
-8. **Decidir después de la ESO.** Con un mapa detallado de Bachillerato, FP y enseñanzas de régimen especial, con sus pasarelas.
-   Podcast: https://go.ivoox.com/rf/167167666
-9. **Bachillerato sin ansiedad.** Regular la activación del cuerpo, sostener el estudio sin forzar y tomar distancia con las presiones sobre el futuro.
-   Podcast: https://go.ivoox.com/rf/161421648
+**1. ¿Estudiar con inteligencia artificial?**
+Cómo acompañar a niños y adolescentes en el estudio en un mundo lleno de IA, con el pensamiento propio en el centro. Ni miedo ni fascinación. Distingue entre delegar lo que conviene delegar y proteger lo que nunca deberíamos soltar.
+- Podcast: https://go.ivoox.com/rf/161593247
+- PDF: https://drive.google.com/uc?export=download&id=1VBH38BjXqv8cJu7o2N5x6N7WiE8w9Hbl
+- Logo: https://drive.google.com/uc?export=view&id=1b86zc0sZoJDTkDO0WLsn59GMWHdmRnhZ
+
+**2. Autocontrol, frustración y responsabilidad**
+Por qué lo que hacemos en casa con la mejor intención produce a veces lo contrario, y qué otro camino existe para que la autonomía crezca de verdad.
+- Podcast: https://go.ivoox.com/rf/161422617
+- PDF: https://drive.google.com/uc?export=download&id=1223JX7JS8DmXN_F7NLKX5Nj3d8cuZLRd
+- Logo: https://drive.google.com/uc?export=view&id=1SfB_bMqag7-iPHEfJEiTjDYI1Vk0cj-o
+
+**3. Adicciones a las pantallas**
+Por qué enganchan tanto —y no es falta de voluntad— y qué hacer en casa desde la comprensión y no desde el pánico. Cuatro áreas: estructurar y hacer visible el tiempo, crear espacios sin distracciones, reconstruir vínculos y entender qué son realmente las adicciones.
+- Podcast: https://go.ivoox.com/rf/161013967
+- PDF: https://drive.google.com/uc?export=download&id=1DPfXgPuz7XinZ0ZTkcUjnBrWpHmkJKH7
+- Logo: https://drive.google.com/uc?export=view&id=1L-BxTy7Jdg4CT7i9trxb_c9Rs7Yo7Cy0
+
+**4. Atención y concentración**
+Tres momentos clave: preparar las condiciones antes de sentarse, sostener la atención cuando aparecen las distracciones y trabajar el contenido de formas que ayuden a entenderlo.
+- Podcast: https://go.ivoox.com/rf/167372793
+- PDF: https://drive.google.com/uc?export=download&id=1aE0yEbr3BuNEclDa6QBHrhNxTe9jV1DA
+- Logo: https://drive.google.com/uc?export=view&id=1FWF1Hz5PYW_ENvtioXigbSMr6VMH3o2K
+
+**5. Comunicación con adolescentes**
+El clima en el que se vive y se estudia en casa, los límites con firmeza pero sin violencia, y el reconocimiento que toda persona necesita para crecer.
+- Podcast: https://go.ivoox.com/rf/163146829
+- PDF: https://drive.google.com/uc?export=download&id=1813UonoB8TYwTs8N_mgCU_lYA3YU6F5_
+- Logo: https://drive.google.com/uc?export=view&id=1bdUcY7ut6shCryz54H1kATIJtNYws0Ol
+
+**6. Procrastinación: el "ya lo haré luego"**
+Cinco territorios: conciencia del tiempo, organización, coleccionar los logros, los "pozos de tiempo" y la activación para empezar sin resistencia.
+- Podcast: https://go.ivoox.com/rf/160817124
+- PDF: https://drive.google.com/uc?export=download&id=1_Sv6Kc3ztLhnRsc2VoK1LQNk29fCZ_0H
+- Logo: https://drive.google.com/uc?export=view&id=19WwKidz8B5OKYRKkqcBdxxydtZPx7Zr-
+
+**7. Cambios de primaria a secundaria**
+Dos recorridos, relaciones y estudio, con datos que desmontan miedos. Acompañar bien es más útil que controlar mucho.
+- Podcast: https://go.ivoox.com/rf/173357930
+- PDF: https://drive.google.com/uc?export=download&id=18eTMAxnfewLH5Tim3ZTvF1SWUwuWVCP6
+- Logo: https://drive.google.com/uc?export=view&id=1zD--6ChCr-L5-tnhZodPoyn_i-iA2zqb
+
+**8. Decidir después de la ESO**
+Entender el momento, sumar realidad saliendo a conocer el terreno y sumar autoconocimiento. Con un mapa detallado de Bachillerato, FP y enseñanzas de régimen especial, con sus salidas y pasarelas.
+- Podcast: https://go.ivoox.com/rf/167167666
+- PDF: https://drive.google.com/uc?export=download&id=1jXcGXa5cF89ZAXtSuPuHA9Jsp8T1l3MF
+- Logo: https://drive.google.com/uc?export=view&id=1Lh7oIBWXzxsGug9UOpxv261fHeOnpxq1
+
+**9. Bachillerato sin ansiedad**
+Regular la activación del cuerpo, sostener el impulso en el estudio sin forzar y tomar distancia con las presiones sobre el futuro. Parte de una idea liberadora: aprender bien no significa sufrir más.
+- Podcast: https://go.ivoox.com/rf/161421648
+- PDF: https://drive.google.com/uc?export=download&id=1Xehjtdk-9aJo8gjnB3rMje5gXQRVAxvu
+- Logo: https://drive.google.com/uc?export=view&id=1-X95h1tn3RSJSCHRyVs-UDMU6eHoyh2O
 
 Para la Confederació Gonçal Anaya se imparten además *Orientación escolar en la transición* y *Las familias ante el mundo tecnológico*.
 
 ### Facturación (uso interno)
 
-Servicio para la provincia de València. Factura con Factura Directa a nombre del NIF del AMPA, AFA o centro. Cobro por Stripe: se cobran **netos** los 90 € o los 80 €, con retención de IRPF del 15 % y sin IVA.
+Servicio para la provincia de València. Factura con Factura Directa a nombre del NIF del AMPA, AFA o centro educativo. Cobro por Stripe: se cobran **netos** los 90 € o los 80 €, con retención de IRPF del 15 % y sin IVA en ninguna línea (base = neto ÷ 0,85; retención = 15 % de la base).
 
 | Concepto | Presencial | Online |
-|---|---|---|
+| --- | --- | --- |
 | Producto (base) | 105,88 € | 94,12 € |
 | Retención IRPF 15 % | −15,88 € | −14,12 € |
 | **Total a cobrar** | **90,00 €** | **80,00 €** |
+
+La AMPA transfiere el neto e ingresa la retención a Hacienda a nombre de Carles.
 
 ---
 
 ## 6. CUPONES
 
 | Código | Descuento |
-|---|---|
-| `REBAJA` | 10 % |
-| `TELL` | 20 % |
-| `APRENTELL` | 30 % |
-| `ESTUDIAR` | 50 % |
-| `SINGULAR` | 50 % (solo suscripciones) |
-| `TRACA` | 100 % |
+| --- | --- |
+| REBAJA | 10 % |
+| TELL | 20 % |
+| APRENTELL | 30 % |
+| ESTUDIAR | 50 % |
+| SINGULAR | 50 % (solo suscripciones) |
+| TRACA | 100 % |
 
-Se introducen en la ventana de compra de Stripe. En la Vía B de las guías se aplican dentro de Calendly.
-Gestión: https://dashboard.stripe.com/acct_1OX1fIBcVTg9s8mv/coupons
+Se introducen como código promocional en la ventana de compra de Stripe. En la Vía B de las guías se aplican dentro de Calendly. Gestión: https://dashboard.stripe.com/acct_1OX1fIBcVTg9s8mv/coupons
 
 **El agente no menciona los cupones por iniciativa propia.** Solo si preguntan por descuentos.
 
@@ -394,7 +530,7 @@ Gestión: https://dashboard.stripe.com/acct_1OX1fIBcVTg9s8mv/coupons
 ## 7. CÓMO FUNCIONA LA COMPRA
 
 | Pieza | Para qué |
-|---|---|
+| --- | --- |
 | **Stripe** | Publicaciones, cursos y suscripción. Al pagar, entrega el enlace de descarga o lleva a reservar hora. |
 | **Eventbrite** | Experiencias presenciales. Gestiona aforo, entradas con QR y confirmaciones. |
 | **Calendly** | Reserva de día para las guías y los cursos. |
@@ -405,40 +541,53 @@ Gestión: https://dashboard.stripe.com/acct_1OX1fIBcVTg9s8mv/coupons
 ## 8. CONTACTO Y ENLACES
 
 | Qué | Dónde |
-|---|---|
+| --- | --- |
 | Web | https://www.aprentell.com |
 | Publicaciones | www.aprentell.com/publicaciones |
 | Guías (Tria-t) | https://www.aprentell.com/triat |
 | Cursos para familias | www.aprentell.com/familias |
 | Experiencias | www.aprentell.com/experiencias |
 | Correo | aprentell@gmail.com |
-| WhatsApp | 649 60 58 43 · https://wa.me/34649605843 |
+| WhatsApp | 649 60 58 43 (Carles) · https://wa.me/34649605843 |
+| Calendly general | https://calendly.com/aprentell |
 | Instagram | https://www.instagram.com/aprentell |
 | LinkedIn | www.linkedin.com/company/aprentell |
 | Reseñas de Google | https://g.page/r/CdfsitesJPkeECE/review |
+| QR de reseñas | https://drive.google.com/file/d/1juKUQ1VbZdPjAc8G4ijF6KUtfCUOWwNU/view?usp=sharing |
+
+Color corporativo: verde **#798113** sobre blanco.
 
 ---
 
 ## 9. ⚠️ TARIFAS DE COLABORACIÓN — NO PUBLICAR
 
-> Sección privada. No aparece en web ni en tienda. El agente no la menciona nunca.
+Sección privada. No aparece en web ni en tienda. El agente no la menciona nunca.
 
-Formato estándar: curso de formación para familias de 2 horas. Facturación mensual a mes vencido.
-Desplazamiento (solo FAMPA): a más de 50 km se facturan 3 horas en lugar de 2 y se suman 0,25 €/km, ida y vuelta.
+Formato estándar: curso de formación para familias de 2 horas. Facturación mensual a mes vencido, por el total de sesiones impartidas. Desplazamiento (solo FAMPA): a más de 50 km se facturan 3 horas en lugar de 2 y se suman 0,25 €/km, ida y vuelta.
 
-| Entidad | Tarifa | Sesión | Importe |
-|---|---|---|---|
-| Por libre (AMPA, AFA, centro) | Cerrado | 90 min | 90 € presencial · 80 € online |
-| FAMPA | 40 €/h | 2 h | 80 € |
-| ADAMS | 30 €/h | 2 h | 60 € |
-| Baula · Acompañamiento | 40 €/h | 30 min | 20 € |
-| Baula · Formación del profesorado | 45 €/h | 2 h | 90 € |
-| Baula · Taller | 70 €/h | 2 h | 140 € |
-| Curso Alternativas *(propuesta)* | 40 €/h | 1 h | 40 € · 60 € con difusión |
-| Cooperativa de Massamagrell | 25 €/h | 2 h | 50 € |
-| Institut Lluís Vives | Paquete | 8 × 2 h | 1.000 € |
+| Entidad / vía | Tarifa | Sesión estándar | Importe por sesión | Notas |
+| --- | --- | --- | --- | --- |
+| Por libre (AMPA, AFA, centro) | Precio cerrado | 90 min | 90 € presencial · 80 € online | Neto. Stripe + Factura Directa, retención IRPF 15 % |
+| FAMPA | 40 €/h | 2 h | 80 € | Única entidad con regla de desplazamiento |
+| ADAMS | 30 €/h | 2 h | 60 € | Sin extras por desplazamiento |
+| Baula · Acompañamiento | 20 € / 30 min (= 40 €/h) | 30 min | 20 € | Tarifa vigente, revisable |
+| Baula · Formación del profesorado | 45 €/h | 2 h | 90 € | |
+| Baula · Taller | 70 €/h | 2 h | 140 € | |
+| Curso Alternativas *(propuesta pendiente de aceptación)* | 40 €/h, material incluido | 1 h | 40 € · 60 € con complemento | Complemento de 20 € por difusión y gestión de inscripciones |
+| Cooperativa de Massamagrell | 25 €/h | 2 h | 50 € | Tarifa histórica |
+| Institut Lluís Vives | Paquete cerrado | 8 × 2 h (16 h) | 1.000 € el paquete · 125 €/sesión · 62,50 €/h | Tarifa histórica |
 
-Fórmula de desplazamiento FAMPA: `(40 € × 3 h) + (km ida y vuelta × 0,25 €)`
+**Fórmula de desplazamiento FAMPA:** Importe = (40 € × 3 h) + (km ida y vuelta × 0,25 €)
+
+| Caso | Cálculo | Total |
+| --- | --- | --- |
+| FAMPA, a 40 km | 40 € × 2 h | 80 € |
+| FAMPA, a 70 km | (40 € × 3) + (140 km × 0,25 €) | 155 € |
+| FAMPA, a 100 km | (40 € × 3) + (200 km × 0,25 €) | 170 € |
+
+**Curso Alternativas — desglose:** sesión de 1 hora con material incluido, 40 €; complemento de difusión y gestión de inscripciones, 20 €; total por sesión con complemento, 60 €. El material didáctico va incluido, sin coste aparte.
+
+**Resumen rápido de tarifas horarias:** Baula Taller 70 € · Institut Lluís Vives 62,50 € · Baula Formación del profesorado 45 € · Baula Acompañamiento 40 € · FAMPA 40 € · Curso Alternativas 40 € · ADAMS 30 € · Cooperativa de Massamagrell 25 €.
 
 ---
 
@@ -446,18 +595,92 @@ Fórmula de desplazamiento FAMPA: `(40 € × 3 h) + (km ida y vuelta × 0,25 �
 
 Cosas que el agente no debe resolver por su cuenta:
 
-1. **⚠️ Precio de la guía: 30 € o 40 €.** El documento de tienda dice "Precio: 30 €" en la ficha y "paga los 40 €" en la descripción de la Vía B. **En este dosier se usa 40 €**, que es el importe que se cobra realmente en Calendly. Confirmar y unificar.
-2. **Nombre de la guía.** En la web es **Tria-t** (aprentell.com/triat); en la tienda, "Guía a medida para estudiar". Unificar el nombre comercial.
+1. **⚠️ Precio de la guía: 30 € o 40 €.** La ficha de tienda sigue diciendo "Precio: 30 €" mientras la descripción de la Vía B dice "paga los 40 €". **En este dosier se usa 40 €**, que es el importe que se cobra realmente en Calendly. Confirmar y unificar.
+2. **Nombre y URL de la guía.** Conviven tres: **Tria-t** (aprentell.com/triat), "Guías a medida" (aprentell.com/guia) y aprentell.com/guias. Unificar nombre comercial y URL canónica.
 3. **Fecha de Blicklick.** El documento de Trayectoria anuncia el 8 de julio de 2026 (edición ya celebrada) y la tienda vende la del 3 de octubre de 2026. Usar siempre la de octubre.
-4. **ISBN pendientes:** Foto-síntesis, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, Progetti.
-5. **Páginas pendientes:** Impulsa tu estudio, Progetti.
-6. **"Regala una guía":** falta precio, descripción y enlace de compra propio.
-7. **Progetti** es gratuito pero no tiene enlace de compra creado.
-8. **Autoría:** aparece como "Carles Hernández Coscollà" y "Carles Hernández i Coscollà". Unificar.
-9. **Libro de familia / Libro de familias:** se usan los dos nombres para la misma colección.
-10. **Colaboradores:** el documento de Trayectoria añade **CEAPA**, que no aparecía antes. Y escribe **Gonçal Anaya**, mientras que el documento general escribía "Gonzal Anaya". Confirmar la grafía correcta.
+4. **Lugar de Blicklick.** La descripción dice "Hotel Gran Vía de Valencia" y la línea de datos dice "L&H Gran Vía Valencia". Es el mismo sitio; unificar el nombre.
+5. **ISBN pendientes:** Foto-síntesis, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Progetti.
+6. **Páginas pendientes:** Impulsa tu estudio, Progetti.
+7. **"Regala una guía":** falta precio, descripción y enlace de compra propio.
+8. **Progetti** es gratuito pero no tiene enlace de compra creado.
+9. **Autoría:** aparece como "Carles Hernández Coscollà" y "Carles Hernández i Coscollà". Unificar.
+10. **Libro de familia / Libro de familias:** se usan los dos nombres para la misma colección.
+11. **Doble enlace de Stripe en *Mejorar su concentración*.** En la tienda figura uno tachado o antiguo (`7sY3cu74wel16Oa9SC8IU0q`) junto al vigente (`14AbJ00G85Ov3BYfcW8IU0r`). Borrar el viejo de la tienda para no arrastrar el error.
+12. **Colaboradores:** el documento de Trayectoria añade **CEAPA**, que no aparecía antes. Y escribe **Gonçal Anaya**, mientras que el documento general escribía "Gonzal Anaya". Confirmar la grafía correcta.
+13. **Cursos y libros con el mismo título.** *Autocontrol*, *Cambios de primaria a secundaria*, *Atención/Mejorar su concentración* y *¿Estudiar con IA?* existen a la vez como curso (solo entidades) y como libro (9 €, cualquiera). Al responder hay que dejar claro cuál de los dos se está ofreciendo.
 
 ---
+
+## 11. PLANTILLAS Y OPERATIVA
+
+### Ficha de producto nueva (plantilla)
+
+```
+Categoría:
+Título:
+Subtítulo:
+Autor:
+Precio:
+Web de Aprentell:
+Resumen (una línea):
+Descripción:
+Descripción corta (dos líneas):
+Portada (vista en Drive):
+Portada (enlace directo para web):
+Enlace de descarga o reserva:
+Link de compra Stripe:
+buy-button-id:
+(publicaciones) ISBN:
+(publicaciones) Nº de páginas:
+```
+
+### Cómo se genera un enlace de descarga directa de Drive
+
+1. Clic derecho sobre el PDF → *Compartir* → acceso "Cualquier persona con el enlace puede ver".
+2. Clic derecho → *Obtener enlace*. Formato: `https://drive.google.com/file/d/XXXXXX/view`
+3. Transformarlo a descarga directa: `https://drive.google.com/uc?export=download&id=XXXXXX`, donde `XXXXXX` es el ID entre `/d/` y `/view`.
+4. Para mostrar la imagen en la web, la variante es `https://drive.google.com/uc?export=view&id=XXXXXX`.
+
+Las publicaciones se guardan en la carpeta **0. 🏡 TIENDA APRENTELL** de Drive: https://drive.google.com/drive/u/0/folders/1giZokm6N5hfJUuEbdP0GUFDvkgWFUtqU
+
+### Snippets de integración
+
+**Botón de compra de Stripe** (sustituir el `buy-button-id` por el del producto):
+
+```html
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
+<stripe-buy-button
+  buy-button-id="BUY_BUTTON_ID"
+  publishable-key="pk_live_51OX1fIBcVTg9s8mvQ7sPrjfPY3YM1unWeuV4EPk5Aq2yY25QJKOg1qODUpb0iMG0ig2DW3SBfBmqTG1k3QHXfnak00nsHgL2rw">
+</stripe-buy-button>
+```
+
+**Popup de Calendly** (Vía B de las guías):
+
+```html
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/aprentell/guia?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=798113'});return false;">Reserva</a>
+```
+
+**Checkout modal de Eventbrite** (experiencia Blicklick):
+
+```html
+<noscript><a href="https://www.eventbrite.es/e/entradas-blicklick-experiencia-saber-por-gusto-1999512555880" rel="noopener noreferrer" target="_blank">Comprar entradas en Eventbrite</a></noscript>
+<button id="eventbrite-widget-modal-trigger-1999512555880" type="button">Compra entrada</button>
+<script src="https://www.eventbrite.es/static/widgets/eb_widgets.js"></script>
+<script type="text/javascript">
+  window.EBWidgets.createWidget({
+    widgetType: 'checkout',
+    eventId: '1999512555880',
+    themeSettings: { brandColor: '#798113', fontColor: '#000000', background: '#FFFFFF' },
+    modal: true,
+    modalTriggerElementId: 'eventbrite-widget-modal-trigger-1999512555880',
+    onOrderComplete: function() { console.log('Pedido completo'); }
+  });
+</script>
+```
+
 ---
 
 # ANEXO · TRAYECTORIA DE APRENTELL
@@ -466,9 +689,7 @@ Cosas que el agente no debe resolver por su cuenta:
 
 ## Una editorial de ideas para estudiar y aprender
 
-**15** años de experiencia, desde 2011.
-**+200** guías personalizadas de estudio.
-**+100** formaciones a familias cada año.
+**15** años de experiencia, desde 2011. **+200** guías personalizadas de estudio. **+100** formaciones a familias cada año.
 
 ## La historia de Aprentell
 
@@ -541,7 +762,5 @@ Desde 2011 dedico a Aprentell la mayor parte de mi tiempo: investigar formas de 
 ## Colaborando con
 
 Universitat de València · Programa Baula · FAMPA València · CEAPA · Confederació d'AMPAs Gonçal Anaya · Academia ADAMS
-
----
 
 *Editorial de ideas para estudiar y aprender. Aprentell · València · aprentell.com*
