@@ -2,7 +2,7 @@
 
 ### Documento de contexto para el informador de IA de aprentell.com
 
-**Versión 3 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
+**Versión 4 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
 
 ---
 
@@ -39,6 +39,7 @@ Una recomendación, dos como mucho. Nunca la lista entera.
 | "Mi hijo empieza el instituto" | *Cambios de primaria a secundaria* · guía personalizada |
 | "Discutimos por los deberes / por las pantallas" | *Autocontrol y responsabilidad* · guía personalizada |
 | "Copia todo con ChatGPT" | *¿Estudiar con inteligencia artificial?* |
+| "Termina la ESO y no sabe qué hacer" | *Decidir el después de la ESO* · guía personalizada |
 | "Estudio mucho y no retengo" | Guía personalizada · *Foto-síntesis* |
 | "Quiero regalar algo distinto" | *Blicklick · Publicación* (46,80 €) · entrada de la experiencia Blicklick |
 | "Soy de una AMPA / un centro" | Cursos para familias (apartado 5) |
@@ -201,10 +202,11 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 | Cambios de primaria a secundaria | 9 € | 69 | [PENDIENTE] | Familias con hijos de 11-13 años |
 | Mejorar su concentración | 9 € | 53 | [PENDIENTE] | Familias que acompañan el estudio en casa |
 | ¿Estudiar con inteligencia artificial? | 9 € | 103 | [PENDIENTE] | Familias con hijos en primaria y secundaria |
+| Decidir el después de la ESO | 9 € | 77 | [PENDIENTE] | Familias con hijos terminando la ESO |
 | Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Regalo, juego para descubrir qué aprender |
 | Progetti | Gratis | [PENDIENTE] | [PENDIENTE] | Docentes y curiosos |
 
-Las cuatro marcadas como **Colección Libro de familias** son *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración* y *¿Estudiar con inteligencia artificial?*. Cada una corresponde a un curso para familias del apartado 5: son el mismo contenido, convertido en libro.
+Las cinco marcadas como **Colección Libro de familias** son *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?* y *Decidir el después de la ESO*. Cada una corresponde a un curso para familias del apartado 5: son el mismo contenido, convertido en libro.
 
 ### 3.1 Concentración para oposiciones · 9 € (IVA incluido)
 
@@ -325,7 +327,33 @@ La inteligencia artificial puede servir para entender un tema o para entregar un
 - Compra: https://buy.stripe.com/aFa5kC9cEdgXc8u2qa8IU0s
 - buy-button-id: `buy_btn_1UEZwnBcVTg9s8mvhdrhukev`
 
-### 3.8 Blicklick · Publicación · 46,80 € (IVA incluido)
+### 3.8 Decidir el después de la ESO · 9 € (IVA incluido) · (Libro de familias)
+
+Autor: Carles Hernández Coscollà.
+
+**Resumen en una línea:** un libro para acompañar la elección de estudios al terminar la ESO, con propuestas para decidir con tiempo y el mapa de todas las opciones.
+
+**Descripción corta:** una decisión no se acierta, se prepara. Propuestas para sumar realidad y autoconocimiento antes de elegir, y el mapa completo de Bachillerato, FP y otras enseñanzas del curso 2026/2027.
+
+Elegir qué estudiar al terminar la ESO suele resolverse en las últimas semanas de plazo, con lo que se ha oído decir y poco más. Este libro propone llegar a esa fecha de otra manera, reuniendo a tiempo los dos materiales que de verdad cambian una decisión así.
+
+El primero es **la realidad de fuera**: conversar en casa, visitar centros, hablar con gente que trabaja de aquello que interesa, reunir una pequeña biblioteca sobre el tema, buscar con un objetivo en las webs e ir a ferias, con ideas concretas para que cada paso dé más información de la que parece. El segundo es **la historia de dentro**: lo que se hacía de pequeño sin que nadie lo mandara y lo que se repite en las fotos, en los cuadernos y en las carpetas del ordenador, leído con otros ojos.
+
+Después despliega el mapa completo de lo que existe en el curso 2026/2027 en la Comunitat Valenciana: las cuatro modalidades de Bachillerato, la Formación Profesional con sus cinco grados y sus veintiocho familias, las enseñanzas artísticas y deportivas y la educación de personas adultas, además de las pasarelas entre unas y otras y los factores prácticos que conviene mirar antes de elegir —oferta cercana, transporte, plazas y becas—.
+
+Cada bloque se apoya en ideas de Umberto Eco, Richard Sennett, Peter Alheit, Zygmunt Bauman y Ulrich Beck, contadas de forma sencilla. El conjunto no decide por nadie ni promete acertar: parte de que esta es la primera de muchas decisiones. Para familias con hijos que están terminando la ESO y para quien quiera empezar a pensarlo con tiempo.
+
+- 77 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1gksvEBwda7NK45_lnvSEAw4OMngfuWEB/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1gksvEBwda7NK45_lnvSEAw4OMngfuWEB
+- Descarga: https://drive.google.com/uc?export=download&id=1JI5K_GSmFWkTVEEFXM8YFEO_OqgD1Sck
+- Vista en Drive: https://drive.google.com/file/d/1JI5K_GSmFWkTVEEFXM8YFEO_OqgD1Sck/view?usp=sharing
+- Compra: https://buy.stripe.com/9B6aEWfB22Cj8Wi6Gq8IU0t
+- buy-button-id: `buy_btn_1UG27VBcVTg9s8mv8VCfDHGA`
+
+> Ojo al **mapa del curso 2026/2027**: es el argumento fuerte del libro y a la vez su fecha de caducidad. Habrá que revisarlo cada curso.
+
+### 3.9 Blicklick · Publicación · 46,80 € (IVA incluido)
 
 *Un nuevo saber por descubrir.* Publicación digital **para imprimir** en casa, de la serie Estiu.
 
@@ -342,7 +370,7 @@ No hace falta preparar nada ni saber de antemano qué quieres aprender: precisam
 - Compra: https://buy.stripe.com/9B63cu0G86Sz1tQgh08IU0n
 - buy-button-id: `buy_btn_1TqqrWBcVTg9s8mv9FNkhdl6`
 
-### 3.9 Progetti · gratuito (0 €)
+### 3.10 Progetti · gratuito (0 €)
 
 *De la Roma renacentista al aprender a aprender presente.* Artículo digital de Carles Hernández i Coscollà.
 
@@ -414,7 +442,7 @@ Una familia sola **no puede comprar un curso**. Un curso es una sesión para un 
 ### Qué ofrecer entonces a una familia particular
 
 1. **La guía personalizada (40 €).** Es la vía prioritaria. Sirve tanto para entender cómo estudia un hijo o una hija como para saber cómo acompañarle.
-2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración* y *¿Estudiar con inteligencia artificial?*.
+2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?* y *Decidir el después de la ESO*.
 3. **Sugerirle que lo proponga a su AMPA.** Si le interesa el curso, puede pasarle el contacto de Aprentell a la asociación de su centro. Eso sí se puede hacer, y es una vía habitual.
 
 ### Datos del curso (para cuando quien escribe sí es una entidad)
@@ -599,7 +627,7 @@ Cosas que el agente no debe resolver por su cuenta:
 2. **Nombre y URL de la guía.** Conviven tres: **Tria-t** (aprentell.com/triat), "Guías a medida" (aprentell.com/guia) y aprentell.com/guias. Unificar nombre comercial y URL canónica.
 3. **Fecha de Blicklick.** El documento de Trayectoria anuncia el 8 de julio de 2026 (edición ya celebrada) y la tienda vende la del 3 de octubre de 2026. Usar siempre la de octubre.
 4. **Lugar de Blicklick.** La descripción dice "Hotel Gran Vía de Valencia" y la línea de datos dice "L&H Gran Vía Valencia". Es el mismo sitio; unificar el nombre.
-5. **ISBN pendientes:** Foto-síntesis, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Progetti.
+5. **ISBN pendientes:** Foto-síntesis, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Progetti.
 6. **Páginas pendientes:** Impulsa tu estudio, Progetti.
 7. **"Regala una guía":** falta precio, descripción y enlace de compra propio.
 8. **Progetti** es gratuito pero no tiene enlace de compra creado.
@@ -607,7 +635,8 @@ Cosas que el agente no debe resolver por su cuenta:
 10. **Libro de familia / Libro de familias:** se usan los dos nombres para la misma colección.
 11. **Doble enlace de Stripe en *Mejorar su concentración*.** En la tienda figura uno tachado o antiguo (`7sY3cu74wel16Oa9SC8IU0q`) junto al vigente (`14AbJ00G85Ov3BYfcW8IU0r`). Borrar el viejo de la tienda para no arrastrar el error.
 12. **Colaboradores:** el documento de Trayectoria añade **CEAPA**, que no aparecía antes. Y escribe **Gonçal Anaya**, mientras que el documento general escribía "Gonzal Anaya". Confirmar la grafía correcta.
-13. **Cursos y libros con el mismo título.** *Autocontrol*, *Cambios de primaria a secundaria*, *Atención/Mejorar su concentración* y *¿Estudiar con IA?* existen a la vez como curso (solo entidades) y como libro (9 €, cualquiera). Al responder hay que dejar claro cuál de los dos se está ofreciendo.
+13. **Cursos y libros con el mismo título.** *Autocontrol*, *Cambios de primaria a secundaria*, *Atención/Mejorar su concentración*, *¿Estudiar con IA?* y ahora *Decidir el después de la ESO* existen a la vez como curso (solo entidades) y como libro (9 €, cualquiera). Al responder hay que dejar claro cuál de los dos se está ofreciendo. Ojo con el título: el curso se llama *Decidir después de la ESO* y el libro *Decidir **el** después de la ESO*. Unificar o asumir la diferencia a conciencia.
+14. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
 
 ---
 
