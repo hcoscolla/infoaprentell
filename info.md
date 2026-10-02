@@ -131,7 +131,7 @@ La diferencia con una lista de técnicas de estudio es la misma que entre una li
 
 | Dato | Valor |
 | --- | --- |
-| Precio | 40 € |
+| Precio | **40 €** (precio confirmado y único; cualquier mención a 30 € está obsoleta) |
 | Página | https://www.aprentell.com/triat |
 | Otras URLs en uso | www.aprentell.com/guia · www.aprentell.com/guias *(ver pendiente nº 2)* |
 | Formato | Entrevista de 1 h por videoconferencia (o audios de WhatsApp) + documento escrito |
@@ -166,7 +166,7 @@ La diferencia con una lista de técnicas de estudio es la misma que entre una li
 
 Existe como opción: la entrada puede ir a nombre de otra persona, que reserva su día con el enlace https://calendly.com/aprentell/guia-
 
-- Precio: [PENDIENTE — confirmar si son los mismos 40 €]
+- Precio: [PENDIENTE — la guía normal son 40 €; falta confirmar si el regalo mantiene ese precio]
 - Descripción: [PENDIENTE]
 - Link de compra Stripe: [PENDIENTE — Payment Link propio]
 - Botón: [PENDIENTE — el buy-button-id disponible es el mismo que el de la guía normal; comprobar en Stripe si es un producto aparte]
@@ -623,7 +623,7 @@ Formato estándar: curso de formación para familias de 2 horas. Facturación me
 
 Cosas que el agente no debe resolver por su cuenta:
 
-1. **⚠️ Precio de la guía: 30 € o 40 €.** La ficha de tienda sigue diciendo "Precio: 30 €" mientras la descripción de la Vía B dice "paga los 40 €". **En este dosier se usa 40 €**, que es el importe que se cobra realmente en Calendly. Confirmar y unificar.
+1. ~~**Precio de la guía: 30 € o 40 €.**~~ **RESUELTO: la guía cuesta 40 €.** Precio confirmado y único en todo este dosier. Queda una tarea fuera de aquí: la ficha del documento *Tienda Aprentell* todavía dice "Precio: 30 €" en la cabecera de "Guía a medida para estudiar". Corregirlo allí para que no vuelva a entrar el dato viejo en una próxima actualización.
 2. **Nombre y URL de la guía.** Conviven tres: **Tria-t** (aprentell.com/triat), "Guías a medida" (aprentell.com/guia) y aprentell.com/guias. Unificar nombre comercial y URL canónica.
 3. **Fecha de Blicklick.** El documento de Trayectoria anuncia el 8 de julio de 2026 (edición ya celebrada) y la tienda vende la del 3 de octubre de 2026. Usar siempre la de octubre.
 4. **Lugar de Blicklick.** La descripción dice "Hotel Gran Vía de Valencia" y la línea de datos dice "L&H Gran Vía Valencia". Es el mismo sitio; unificar el nombre.
