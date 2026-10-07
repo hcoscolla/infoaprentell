@@ -2,7 +2,7 @@
 
 ### Documento de contexto para el informador de IA de aprentell.com
 
-**Versión 4 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
+**Versión 5 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
 
 ---
 
@@ -40,7 +40,11 @@ Una recomendación, dos como mucho. Nunca la lista entera.
 | "Discutimos por los deberes / por las pantallas" | *Autocontrol y responsabilidad* · guía personalizada |
 | "Copia todo con ChatGPT" | *¿Estudiar con inteligencia artificial?* |
 | "Termina la ESO y no sabe qué hacer" | *Decidir el después de la ESO* · guía personalizada |
+| "Lo deja todo para el último día", "no se organiza" | *Habitar el tiempo* · guía personalizada |
+| "No hay manera de hablar con mi hija", "todo acaba en portazo" | *Comunicación y adolescencia* |
 | "Estudio mucho y no retengo" | Guía personalizada · *Foto-síntesis* |
+| "Tomo apuntes en la universidad y quiero usar IA bien" | *Anotar* (gratis, **en valenciano**) |
+| "Quiero aprender algo de arte", "tengo que memorizar nombres" | *La memoria del arte* |
 | "Quiero regalar algo distinto" | *Blicklick · Publicación* (46,80 €) · entrada de la experiencia Blicklick |
 | "Soy de una AMPA / un centro" | Cursos para familias (apartado 5) |
 
@@ -188,25 +192,47 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 
 **Cómo venderlas:** son la puerta de entrada barata. Quien tiene un problema muy concreto y no quiere gastar 40 €, empieza por aquí. Y siempre se puede sugerir después la guía, que es lo que de verdad personaliza.
 
+**Hay dos publicaciones gratuitas** —*Anotar* y *Progetti*—: sirven para que alguien que duda pruebe sin pagar nada.
+
 **Clave pública de Stripe, la misma para todos los botones:**
 `pk_live_51OX1fIBcVTg9s8mvQ7sPrjfPY3YM1unWeuV4EPk5Aq2yY25QJKOg1qODUpb0iMG0ig2DW3SBfBmqTG1k3QHXfnak00nsHgL2rw`
 
 ### Resumen rápido
 
-| Título | Precio | Páginas | ISBN | Para quién |
-| --- | --- | --- | --- | --- |
-| Concentración para oposiciones | 9 € | 41 | 978-84-09-74294-3 | Opositores |
-| Impulsa tu estudio | 9 € | [PENDIENTE] | 978-84-09-87253-4 | Quien no puede con el cansancio |
-| Foto-síntesis | 9 € | 48 | [PENDIENTE] | Secundaria, universidad, oposiciones |
-| Autocontrol y responsabilidad | 9 € | 50 | [PENDIENTE] | Familias |
-| Cambios de primaria a secundaria | 9 € | 69 | [PENDIENTE] | Familias con hijos de 11-13 años |
-| Mejorar su concentración | 9 € | 53 | [PENDIENTE] | Familias que acompañan el estudio en casa |
-| ¿Estudiar con inteligencia artificial? | 9 € | 103 | [PENDIENTE] | Familias con hijos en primaria y secundaria |
-| Decidir el después de la ESO | 9 € | 77 | [PENDIENTE] | Familias con hijos terminando la ESO |
-| Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Regalo, juego para descubrir qué aprender |
-| Progetti | Gratis | [PENDIENTE] | [PENDIENTE] | Docentes y curiosos |
+| Título | Precio | Páginas | ISBN | Bloque | Para quién |
+| --- | --- | --- | --- | --- | --- |
+| Concentración para oposiciones | 9 € | 41 | 978-84-09-74294-3 | Para quien estudia | Opositores |
+| Impulsa tu estudio | 9 € | [PENDIENTE] | 978-84-09-87253-4 | Para quien estudia | Quien no puede con el cansancio |
+| Foto-síntesis | 9 € | 48 | [PENDIENTE] | Para quien estudia | Secundaria, universidad, oposiciones |
+| La memoria del arte | 9 € | 21 (24 con cubiertas) | [PENDIENTE] | Para quien estudia | Estudiantes, docentes y curiosos |
+| Anotar | **Gratis** | 23 | [PENDIENTE] | Para quien estudia · **en valenciano** | Estudiantado y profesorado universitario |
+| Autocontrol y responsabilidad | 9 € | 50 | [PENDIENTE] | Libro de familias | Familias |
+| Cambios de primaria a secundaria | 9 € | 69 | [PENDIENTE] | Libro de familias | Familias con hijos de 11-13 años |
+| Mejorar su concentración | 9 € | 53 | [PENDIENTE] | Libro de familias | Familias que acompañan el estudio en casa |
+| ¿Estudiar con inteligencia artificial? | 9 € | 103 | [PENDIENTE] | Libro de familias | Familias con hijos en primaria y secundaria |
+| Decidir el después de la ESO | 9 € | 77 | [PENDIENTE] | Libro de familias | Familias con hijos terminando la ESO |
+| Habitar el tiempo | 9 € | 60 | [PENDIENTE] | Libro de familias | Familias, de primaria a bachillerato |
+| Comunicación y adolescencia | 9 € | 54 | [PENDIENTE] | Libro de familias | Familias con adolescentes |
+| Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Serie Estiu | Regalo, juego para descubrir qué aprender |
+| Progetti | **Gratis** | [PENDIENTE] | [PENDIENTE] | Artículo | Docentes y curiosos |
 
-Las cinco marcadas como **Colección Libro de familias** son *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?* y *Decidir el después de la ESO*. Cada una corresponde a un curso para familias del apartado 5: son el mismo contenido, convertido en libro.
+**Catorce publicaciones**, en cuatro bloques: cinco **para quien estudia**, siete de la colección **Libro de familias**, una de la **serie Estiu** y un **artículo**.
+
+Las siete del **Libro de familias** son el contenido de los cursos del apartado 5 convertido en libro. Equivalencias que conviene tener claras, porque el título no siempre coincide:
+
+| Curso para familias | Libro |
+| --- | --- |
+| Autocontrol, frustración y responsabilidad | Autocontrol y responsabilidad |
+| Cambios de primaria a secundaria | Cambios de primaria a secundaria |
+| Atención y concentración | Mejorar su concentración |
+| ¿Estudiar con inteligencia artificial? | ¿Estudiar con inteligencia artificial? |
+| Decidir después de la ESO | Decidir **el** después de la ESO |
+| Procrastinación: el "ya lo haré luego" | **Habitar el tiempo** |
+| Comunicación con adolescentes | **Comunicación y adolescencia** |
+
+---
+
+## BLOQUE A · PARA QUIEN ESTUDIA
 
 ### 3.1 Concentración para oposiciones · 9 € (IVA incluido)
 
@@ -252,9 +278,57 @@ Para estudiantes de secundaria, universidad y oposiciones, y para cualquiera que
 - Compra: https://buy.stripe.com/00w4gy3SkccTdcyaWG8IU0o
 - buy-button-id: `buy_btn_1U913EBcVTg9s8mvJ7jKelf5`
 
-### 3.4 Autocontrol y responsabilidad · 9 € · (Libro de familias)
+### 3.4 La memoria del arte · 9 €
 
-Autor: Carles Hernández Coscollà.
+*Una carta ficción para aprender cincuenta nombres.*
+
+**Resumen en una línea:** una carta ficción para aprender, en una hora y jugando con ritmos, nubes y un cuadro, los nombres de cincuenta mujeres del arte de los siglos XX y XXI.
+
+Cincuenta mujeres que dedicaron su vida al arte en los siglos XX y XXI: escritoras, cineastas, compositoras, arquitectas, fotógrafas, cocineras… de los cinco continentes. En la voz de la compositora Teresa Catalán, la obra se toca como una partitura. Primero los nombres suenan, con palmadas y ritmos inventados. Después se encogen a dos letras y juegan dentro de unas nubes. Al final encuentran su sitio en los cincuenta y un rostros de *Operários*, el cuadro de Tarsila do Amaral, que se convierte en un palacio de la memoria. Incluye una playlist de compositoras del siglo XX para las pausas.
+
+Para estudiantes, docentes y cualquier persona curiosa que quiera aprender jugando, y descubrir cincuenta puertas abiertas a otras tantas obras.
+
+**Cómo venderlo:** es el único libro del catálogo donde el contenido que se aprende *es* el tema (cincuenta nombres), no una forma de estudiar aplicable a cualquier materia. Funciona como demostración: se estudia algo de verdad en una hora y se ve el método en acción. Buen regalo para alguien con interés por el arte.
+
+- 21 páginas (24 con cubierta y contracubierta) · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1cPk9GXfa796NPYGTnMahl2BiWhffwfaH/view
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1cPk9GXfa796NPYGTnMahl2BiWhffwfaH
+- Descarga: https://drive.google.com/uc?export=download&id=1-M6csoMndFN7tHyGKVCREngoKi34XI2n
+- Compra: https://buy.stripe.com/cNi6oG60s90Hc8ugh08IU0u
+- buy-button-id: `buy_btn_1UIrVUBcVTg9s8mvVYDWIvKX`
+
+### 3.5 Anotar · gratis (0 €) · ⚠️ en valenciano
+
+*Anotar. Una proposta per a prendre apunts amb intel·ligència artificial.*
+
+Colección **Idees per a estudiar**. Elaborado con el grupo **EDIAU** (Ensenyament Disruptiu i Intel·ligència Artificial a la Universitat) de la Universitat de València.
+
+**⚠️ El libro está escrito en valenciano.** Avisar siempre antes de recomendarlo a quien escriba en castellano.
+
+**Resumen en una línea:** una propuesta práctica para que el estudiantado universitario tome apuntes con inteligencia artificial sin dejar de pensar por su cuenta.
+
+La IA puede servir para ahorrarse el esfuerzo de aprender o para aprender más. *Anotar* elige el segundo camino y lo aplica a algo muy cotidiano: tomar apuntes en clase. Los apuntes dejan de ser una copia de lo que se dice y pasan a recoger tu mirada: lo que has entendido, lo que te ha costado, lo que te ha sorprendido y cómo te has sentido. La IA hace de compañera silenciosa de pupitre: anota contigo, lo ordena todo en un único documento y, a la hora de estudiar, te devuelve preguntas y pistas en lugar de respuestas hechas.
+
+Incluye un recorrido por los primeros estudios sobre IA y aprendizaje, una explicación paso a paso de cómo ponerlo en marcha y, en el anexo, **un prompt de proyecto completo** listo para copiar en Claude, Gemini o ChatGPT.
+
+Dirigido a estudiantado universitario y también a profesorado.
+
+**Cómo venderlo:** es gratis y lleva el sello de la Universitat de València. Sirve de carta de presentación con universidad, con docentes y con quien pregunta por IA y estudio. Después se puede sugerir la guía personalizada.
+
+- 23 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1GYHcy-B3XLv1Dv7bOcr0cBycrXqqEgPp/view
+- Portada (imagen para web): https://drive.google.com/thumbnail?id=1GYHcy-B3XLv1Dv7bOcr0cBycrXqqEgPp&sz=w1000
+- Descarga: https://drive.google.com/uc?export=download&id=13qMHf9JhMJQtHx8cJ06HYx0Lq2wnx5Vc
+- Compra (0 €, pasa por Stripe igualmente): https://buy.stripe.com/fZu9ASfB290H7Se4yi8IU0v
+- buy-button-id: `buy_btn_1UJDHaBcVTg9s8mv5yTHlQaj`
+
+---
+
+## BLOQUE B · COLECCIÓN LIBRO DE FAMILIAS
+
+Siete libros, todos a 9 € (IVA incluido), todos de Carles Hernández Coscollà. Son la versión en libro de los cursos para familias, que un particular no puede contratar. **Es la respuesta natural cuando una familia pregunta por un curso.**
+
+### 3.6 Autocontrol y responsabilidad · 9 €
 
 **Descripción corta:** criar a base de órdenes, premios y castigos parece lo normal, pero es reciente y empuja justo hacia la frustración y la irresponsabilidad. Este libro propone el otro camino —límites, permiso y provocación— con propuestas concretas para que la responsabilidad crezca desde dentro.
 
@@ -269,9 +343,7 @@ Dos partes. *El aroma del autocontrol*: toda orden abre solo dos caminos —obed
 - Compra: https://buy.stripe.com/bJe9ASbkM6SzgoKfcW8IU0l
 - buy-button-id: `buy_btn_1TnwoOBcVTg9s8mvfCOsI5Me`
 
-### 3.5 Cambios de primaria a secundaria · 9 € (IVA incluido) · (Libro de familias)
-
-Autor: Carles Hernández Coscollà.
+### 3.7 Cambios de primaria a secundaria · 9 €
 
 **Resumen en una línea:** un libro para acompañar el paso de primaria a secundaria, con cinco vías de trabajo y propuestas breves para casa.
 
@@ -289,9 +361,7 @@ Cinco vías de trabajo, con propuestas que cuestan entre cinco minutos y media h
 - Compra: https://buy.stripe.com/28E28qgF6fp55K68Oy8IU0p
 - buy-button-id: `buy_btn_1UBEgYBcVTg9s8mvUXLjT7RJ`
 
-### 3.6 Mejorar su concentración · 9 € (IVA incluido) · (Libro de familias)
-
-Autor: Carles Hernández Coscollà.
+### 3.8 Mejorar su concentración · 9 €
 
 **Resumen en una línea:** un libro para acompañar la concentración de quien estudia en casa, con cuatro recorridos y veintiuna propuestas concretas para la tarde.
 
@@ -311,9 +381,9 @@ Cuatro recorridos —ambientar dónde se estudia, activar el arranque, acompaña
 
 > ⚠️ En la tienda aparece un segundo enlace de Stripe para este libro (`.../7sY3cu74wel16Oa9SC8IU0q`), aparentemente antiguo. **Usar siempre el de arriba.** Ver pendiente nº 11.
 
-### 3.7 ¿Estudiar con inteligencia artificial? · 9 € (IVA incluido) · (Libro de familias)
+### 3.9 ¿Estudiar con inteligencia artificial? · 9 €
 
-Subtítulo: *La pregunta es nuestra.* Autor: Carles Hernández Coscollà.
+Subtítulo: *La pregunta es nuestra.*
 
 **Resumen en una línea:** un libro para familias que explica cómo prevenir el mal uso de la inteligencia artificial en el estudio —que es usarla para no tener que aprender— y cómo aprovechar las oportunidades que ofrece para aprender mejor, con propuestas concretas para hacer en casa.
 
@@ -327,9 +397,7 @@ La inteligencia artificial puede servir para entender un tema o para entregar un
 - Compra: https://buy.stripe.com/aFa5kC9cEdgXc8u2qa8IU0s
 - buy-button-id: `buy_btn_1UEZwnBcVTg9s8mvhdrhukev`
 
-### 3.8 Decidir el después de la ESO · 9 € (IVA incluido) · (Libro de familias)
-
-Autor: Carles Hernández Coscollà.
+### 3.10 Decidir el después de la ESO · 9 €
 
 **Resumen en una línea:** un libro para acompañar la elección de estudios al terminar la ESO, con propuestas para decidir con tiempo y el mapa de todas las opciones.
 
@@ -353,7 +421,51 @@ Cada bloque se apoya en ideas de Umberto Eco, Richard Sennett, Peter Alheit, Zyg
 
 > Ojo al **mapa del curso 2026/2027**: es el argumento fuerte del libro y a la vez su fecha de caducidad. Habrá que revisarlo cada curso.
 
-### 3.9 Blicklick · Publicación · 46,80 € (IVA incluido)
+### 3.11 Habitar el tiempo · 9 €
+
+Subtítulo: *El tiempo de estudiar y estudiar el tiempo.*
+
+**Resumen en una línea:** un libro con doce propuestas para organizar en casa el tiempo de estudio: saber cuánto dura cada cosa, repartir la semana y hacer fácil el momento de empezar.
+
+**Descripción corta:** dejar las cosas para luego casi nunca es pereza: suele ser no saber cuánto dura cada cosa ni por dónde empezar. Doce propuestas para hacer visible el tiempo, repartir la semana, descansar sin culpa y facilitar el arranque.
+
+Un libro para familias que quieren ayudar a organizar el tiempo de estudio en casa sin prisas ni discusiones. Reúne doce propuestas en cuatro bloques: **hacer visible el tiempo** (un calendario a la vista, un temporizador, contar las páginas de un tema, jugar a predecir cuánto se tarda), **repartir la semana con criterio**, **entender para qué no sirve medir el tiempo** y por qué el descanso también cuenta, y **facilitar el momento de empezar**. La mayoría se hacen en media hora o menos, traen variantes para adaptarlas a cada casa y se apoyan en investigación contada de forma sencilla. Para familias con hijos de primaria a bachillerato.
+
+**Es el libro del curso "Procrastinación: el ya lo haré luego".** Cuando una familia habla de que su hijo lo deja todo para después, este es el que encaja.
+
+- 60 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1f1JU2tVlGMbfQHrlO22T7Zf9leh_SCjD/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1f1JU2tVlGMbfQHrlO22T7Zf9leh_SCjD
+- Descarga: https://drive.google.com/uc?export=download&id=13IR6A08ql-_llJj-Zt31G8ZTA2Coy7o2
+- Vista en Drive: https://drive.google.com/file/d/13IR6A08ql-_llJj-Zt31G8ZTA2Coy7o2/view?usp=sharing
+- Compra: https://buy.stripe.com/4gM00i88A90Ha0m3ue8IU0w
+- buy-button-id: `buy_btn_1UMA9rBcVTg9s8mve4uPH9Mh`
+
+### 3.12 Comunicación y adolescencia · 9 €
+
+**Resumen en una línea:** un libro con doce propuestas para conversar con adolescentes, poner límites sin pelear, reconocer lo que sale bien y cuidar el ambiente de estudio en casa.
+
+**Descripción corta:** en la adolescencia la conversación deja de llegar sola, y en una casa todo comunica. Doce propuestas para hacerle sitio, poner límites sin pelear, reconocer lo que sale bien y cuidar el lugar donde se estudia.
+
+Un libro para familias que quieren seguir conversando en casa cuando llega la adolescencia y la conversación deja de llegar sola. Parte de una idea sencilla: en una casa todo comunica, también lo que no se dice. Reúne doce propuestas en cuatro bloques: **conversar** (buscar ratos de dos, una cena al mes, contar también lo propio en lugar de interrogar), **poner límites sin pelear** (frenar en caliente y hablar en frío, preparar respuestas tranquilas, elegir bien el sitio), **reconocer lo que sale bien** (fotos de las buenas tardes de estudio, preguntar con interés por lo que se aprende, un corcho del curso) y **ambientar el sitio donde se estudia** (luz, ruido, mesa despejada y compañía en silencio).
+
+La mayoría son cambios pequeños, con variantes para adaptarlos a cada casa, y se apoyan en ideas de Walter Benjamin, Marshall Rosenberg, Axel Honneth y Duane Elgin contadas de forma sencilla. Para familias con adolescentes en casa.
+
+**Es el libro del curso "Comunicación con adolescentes".**
+
+- 54 páginas · ISBN [PENDIENTE]
+- Portada: https://drive.google.com/file/d/1jZm-Gb4dya5YNIN-AcJo0PH00-jRIoCo/view?usp=drive_link
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1jZm-Gb4dya5YNIN-AcJo0PH00-jRIoCo
+- Descarga: https://drive.google.com/uc?export=download&id=1_7Y7NOsVcd8MFO826SsJHurxTu2P8lpw
+- Vista en Drive: https://drive.google.com/file/d/1_7Y7NOsVcd8MFO826SsJHurxTu2P8lpw/view?usp=sharing
+- Compra: https://buy.stripe.com/cNifZgcoQccTa0m0i28IU0x
+- buy-button-id: `buy_btn_1UNy2tBcVTg9s8mvFO7lZOKF`
+
+---
+
+## BLOQUE C · SERIE ESTIU Y ARTÍCULOS
+
+### 3.13 Blicklick · Publicación · 46,80 € (IVA incluido)
 
 *Un nuevo saber por descubrir.* Publicación digital **para imprimir** en casa, de la serie Estiu.
 
@@ -370,7 +482,7 @@ No hace falta preparar nada ni saber de antemano qué quieres aprender: precisam
 - Compra: https://buy.stripe.com/9B63cu0G86Sz1tQgh08IU0n
 - buy-button-id: `buy_btn_1TqqrWBcVTg9s8mv9FNkhdl6`
 
-### 3.10 Progetti · gratuito (0 €)
+### 3.14 Progetti · gratuito (0 €)
 
 *De la Roma renacentista al aprender a aprender presente.* Artículo digital de Carles Hernández i Coscollà.
 
@@ -442,7 +554,7 @@ Una familia sola **no puede comprar un curso**. Un curso es una sesión para un 
 ### Qué ofrecer entonces a una familia particular
 
 1. **La guía personalizada (40 €).** Es la vía prioritaria. Sirve tanto para entender cómo estudia un hijo o una hija como para saber cómo acompañarle.
-2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?* y *Decidir el después de la ESO*.
+2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa. Ya son **siete**: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?*, *Decidir el después de la ESO*, *Habitar el tiempo* y *Comunicación y adolescencia*. La tabla de equivalencias curso ↔ libro está en el apartado 3.
 3. **Sugerirle que lo proponga a su AMPA.** Si le interesa el curso, puede pasarle el contacto de Aprentell a la asociación de su centro. Eso sí se puede hacer, y es una vía habitual.
 
 ### Datos del curso (para cuando quien escribe sí es una entidad)
@@ -627,7 +739,7 @@ Cosas que el agente no debe resolver por su cuenta:
 2. **Nombre y URL de la guía.** Conviven tres: **Tria-t** (aprentell.com/triat), "Guías a medida" (aprentell.com/guia) y aprentell.com/guias. Unificar nombre comercial y URL canónica.
 3. **Fecha de Blicklick.** El documento de Trayectoria anuncia el 8 de julio de 2026 (edición ya celebrada) y la tienda vende la del 3 de octubre de 2026. Usar siempre la de octubre.
 4. **Lugar de Blicklick.** La descripción dice "Hotel Gran Vía de Valencia" y la línea de datos dice "L&H Gran Vía Valencia". Es el mismo sitio; unificar el nombre.
-5. **ISBN pendientes:** Foto-síntesis, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Progetti.
+5. **ISBN pendientes — ya son once de catorce.** Foto-síntesis, La memoria del arte, Anotar, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Habitar el tiempo, Comunicación y adolescencia, Progetti. Solo tienen ISBN *Concentración para oposiciones*, *Impulsa tu estudio* y *Blicklick*. Vale la pena hacer una tanda de registro de golpe en vez de uno a uno.
 6. **Páginas pendientes:** Impulsa tu estudio, Progetti.
 7. **"Regala una guía":** falta precio, descripción y enlace de compra propio.
 8. **Progetti** es gratuito pero no tiene enlace de compra creado.
@@ -636,7 +748,10 @@ Cosas que el agente no debe resolver por su cuenta:
 11. **Doble enlace de Stripe en *Mejorar su concentración*.** En la tienda figura uno tachado o antiguo (`7sY3cu74wel16Oa9SC8IU0q`) junto al vigente (`14AbJ00G85Ov3BYfcW8IU0r`). Borrar el viejo de la tienda para no arrastrar el error.
 12. **Colaboradores:** el documento de Trayectoria añade **CEAPA**, que no aparecía antes. Y escribe **Gonçal Anaya**, mientras que el documento general escribía "Gonzal Anaya". Confirmar la grafía correcta.
 13. **Cursos y libros con el mismo título.** *Autocontrol*, *Cambios de primaria a secundaria*, *Atención/Mejorar su concentración*, *¿Estudiar con IA?* y ahora *Decidir el después de la ESO* existen a la vez como curso (solo entidades) y como libro (9 €, cualquiera). Al responder hay que dejar claro cuál de los dos se está ofreciendo. Ojo con el título: el curso se llama *Decidir después de la ESO* y el libro *Decidir **el** después de la ESO*. Unificar o asumir la diferencia a conciencia.
-14. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
+14. **Colección nueva: *Idees per a estudiar*.** *Anotar* la estrena. No estaba en el plan editorial anterior (colecciones Estiu y Baukasten). Aclarar si sustituye a alguna, si es la línea en valenciano o si convive con las otras.
+15. **Idioma de *Anotar*.** Es la única publicación solo en valenciano. Decidir si habrá versión en castellano y, mientras tanto, avisarlo siempre al recomendarla.
+16. **Cursos sin libro.** De los nueve cursos para familias, siete ya tienen su libro. Quedan **Adicciones a las pantallas** y los dos de la Confederació (*Orientación escolar en la transición*, *Las familias ante el mundo tecnológico*). Si se escriben, la colección quedaría completa.
+17. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
 
 ---
 
@@ -669,6 +784,7 @@ buy-button-id:
 2. Clic derecho → *Obtener enlace*. Formato: `https://drive.google.com/file/d/XXXXXX/view`
 3. Transformarlo a descarga directa: `https://drive.google.com/uc?export=download&id=XXXXXX`, donde `XXXXXX` es el ID entre `/d/` y `/view`.
 4. Para mostrar la imagen en la web, la variante es `https://drive.google.com/uc?export=view&id=XXXXXX`.
+5. Existe una tercera variante en uso (la de *Anotar*), que permite pedir un ancho concreto: `https://drive.google.com/thumbnail?id=XXXXXX&sz=w1000`. Útil cuando la portada pesa mucho. Conviene elegir una de las dos y usar siempre la misma.
 
 Las publicaciones se guardan en la carpeta **0. 🏡 TIENDA APRENTELL** de Drive: https://drive.google.com/drive/u/0/folders/1giZokm6N5hfJUuEbdP0GUFDvkgWFUtqU
 
