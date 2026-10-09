@@ -2,7 +2,7 @@
 
 ### Documento de contexto para el informador de IA de aprentell.com
 
-**Versión 5 · septiembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
+**Versión 6 · octubre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
 
 ---
 
@@ -45,6 +45,9 @@ Una recomendación, dos como mucho. Nunca la lista entera.
 | "Estudio mucho y no retengo" | Guía personalizada · *Foto-síntesis* |
 | "Tomo apuntes en la universidad y quiero usar IA bien" | *Anotar* (gratis, **en valenciano**) |
 | "Quiero aprender algo de arte", "tengo que memorizar nombres" | *La memoria del arte* |
+| "Tengo diez páginas que estudiar esta tarde" | Una **Bonsái**, según cómo estudie mejor (ver abajo) |
+| "No soporto estar sentado estudiando" | *Grafitis* (se estudia de pie y moviéndose) |
+| "Necesito hacer algo con las manos" | *Iniciales* (⚠️ pide comprar materiales) |
 | "Quiero regalar algo distinto" | *Blicklick · Publicación* (46,80 €) · entrada de la experiencia Blicklick |
 | "Soy de una AMPA / un centro" | Cursos para familias (apartado 5) |
 
@@ -213,10 +216,17 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 | Decidir el después de la ESO | 9 € | 77 | [PENDIENTE] | Libro de familias | Familias con hijos terminando la ESO |
 | Habitar el tiempo | 9 € | 60 | [PENDIENTE] | Libro de familias | Familias, de primaria a bachillerato |
 | Comunicación y adolescencia | 9 € | 54 | [PENDIENTE] | Libro de familias | Familias con adolescentes |
+| Inicial | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia escuchando |
+| Arlequín | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia dibujando |
+| Marcar | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien necesita hacerlo suyo |
+| Grafitis | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien no soporta estar sentado |
+| Iniciales | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia con las manos |
 | Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Serie Estiu | Regalo, juego para descubrir qué aprender |
 | Progetti | **Gratis** | [PENDIENTE] | [PENDIENTE] | Artículo | Docentes y curiosos |
 
-**Catorce publicaciones**, en cuatro bloques: cinco **para quien estudia**, siete de la colección **Libro de familias**, una de la **serie Estiu** y un **artículo**.
+**Diecinueve publicaciones**, en cuatro bloques: cinco **para quien estudia**, siete de la colección **Libro de familias**, cinco de la colección **Bonsáis** y dos de la **serie Estiu y artículos**.
+
+⚠️ **Las cinco Bonsáis no se pueden vender todavía:** no tienen precio confirmado y comparten ISBN. Hasta resolverlo, el agente puede describirlas pero no debe decir ningún precio. Ver pendientes 18 y 19.
 
 Las siete del **Libro de familias** son el contenido de los cursos del apartado 5 convertido en libro. Equivalencias que conviene tener claras, porque el título no siempre coincide:
 
@@ -463,9 +473,109 @@ La mayoría son cambios pequeños, con variantes para adaptarlos a cada casa, y 
 
 ---
 
-## BLOQUE C · SERIE ESTIU Y ARTÍCULOS
+## BLOQUE C · COLECCIÓN BONSÁIS
 
-### 3.13 Blicklick · Publicación · 46,80 € (IVA incluido)
+**Qué es la colección.** Obras de estudio escritas en València en el verano de 2025. Cada una es **una hora para estudiar diez páginas de teoría**, escrita como una partitura: partes cronometradas, materiales sencillos e indicaciones que se adaptan a cualquier asignatura y se pueden repetir con otros textos. Autor: Carles Hernández Coscollà. Diseño y maquetación: **Ana Muñoz Antón**.
+
+**Cómo venderlas.** Son lo más parecido a probar el método de Aprentell en una tarde: no explican cómo estudiar, se estudia con ellas. Encajan con quien dice que ha probado de todo, con quien no soporta estar sentado y con quien quiere algo concreto que hacer hoy. Se pueden recomendar por el modo de aprender de cada persona —escuchando, dibujando, moviéndose, con las manos— más que por la materia. Y son repetibles: la misma obra sirve con otro texto el mes que viene.
+
+> ⚠️ **No se pueden vender todavía sin resolver dos cosas:** el **precio está PENDIENTE en las cinco** (el agente no debe decir ninguno; los Payment Links ya existen, así que el importe está puesto en Stripe y hay que recuperarlo de allí), y las cinco **comparten el mismo ISBN**. Ver pendientes nº 18 y 19.
+
+Datos comunes a las cinco: autor Carles Hernández Coscollà · diseño Ana Muñoz Antón · formato obra de estudio, 10 páginas de teoría, 1 hora · precio **[PENDIENTE]** · ISBN **978-84-09-92400-4 [REVISAR: es el mismo en las cinco]** · nº de páginas de la obra **[PENDIENTE]** · web www.aprentell.com/publicaciones
+
+### 3.13 Inicial · [PENDIENTE] €
+
+*Una forma de aprender escuchando las palabras.*
+
+**Resumen en una línea:** una forma sencilla de estudiar un texto usando la propia voz y las manos.
+
+Es la primera obra de la colección. Propone estudiar un texto con muy pocos recursos: la propia voz y las manos, con algunos silencios entre medias. Leer en voz alta ayuda a entender, y volver a escuchar lo leído mientras se toman notas ayuda a recordarlo. Está pensada para repetirse con distintos textos, y con la práctica resulta cada vez más natural. Para cualquier persona que tenga diez páginas que estudiar y quiera probar otra manera de hacerlo.
+
+**Materiales:** diez páginas de teoría, un móvil o grabadora, una hoja o libreta, lápiz, goma y sacapuntas, un reloj o cuenta atrás y un sitio silencioso. Opcionales: micrófono, altavoz o auriculares y una botella de agua.
+
+- Portada: https://drive.google.com/file/d/1dk4Gu226Tpf_2MBb7LgC93Q6xkcCRCDk/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1dk4Gu226Tpf_2MBb7LgC93Q6xkcCRCDk
+- Descarga: https://drive.google.com/uc?export=download&id=1MjnNtprrbKXiPl3gnE7iImjiNfV8ThJe
+- Vista en Drive: https://drive.google.com/file/d/1MjnNtprrbKXiPl3gnE7iImjiNfV8ThJe/view?usp=drive_link
+- Compra: https://buy.stripe.com/4gM7sK60s2Cj5K64yi8IU0y
+- buy-button-id: `buy_btn_1UOaepBcVTg9s8mvwMZlmgwy`
+
+### 3.14 Arlequín · [PENDIENTE] €
+
+*Una forma de conocer a través del dibujo primitivo.*
+
+**Resumen en una línea:** una forma de estudiar un texto a través del dibujo, inspirada en un cuadro de Joan Miró.
+
+Propone estudiar un texto convirtiendo lo que se lee en dibujos sencillos, sin palabras. Se inspira en «El carnaval de Arlequín», el cuadro que Joan Miró pintó hace cien años, que puede servir de ayuda cuando las imágenes no salen solas. Dibujar obliga a pensar el contenido de otra manera y ayuda a hacerlo propio. No hace falta saber dibujar: basta con dejarse llevar por lo que sugiere cada página. Para quien quiera estudiar de forma más visual y con algo de juego.
+
+**Materiales:** diez páginas de teoría, doce tarjetas A6 de buen gramaje, diez rotuladores finos o lápices de colores distintos, un reloj, un móvil o cámara, una superficie amplia y la reproducción del cuadro de Miró que incluye la obra.
+
+- Portada: https://drive.google.com/file/d/1yNE3hNu0nZQ2k-cI8sUIZqUu_T9a_cMV/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1yNE3hNu0nZQ2k-cI8sUIZqUu_T9a_cMV
+- Descarga: https://drive.google.com/uc?export=download&id=1xrIgLsbqY-QDUmDT026zlqS3XDBIzLgZ
+- Vista en Drive: https://drive.google.com/file/d/1xrIgLsbqY-QDUmDT026zlqS3XDBIzLgZ/view?usp=drive_link
+- Compra: https://buy.stripe.com/00w5kCcoQfp5dcyd4O8IU0z
+- buy-button-id: `buy_btn_1UOajZBcVTg9s8mv8ePbjivM`
+
+### 3.15 Marcar · [PENDIENTE] €
+
+*Una forma de aprender dando la vuelta a las palabras.*
+
+**Resumen en una línea:** una forma de estudiar un texto relacionándolo con la propia vida: nombres, lugares y recuerdos cercanos.
+
+Mientras se lee, se escriben sobre el texto nombres de personas, lugares o recuerdos cercanos, de modo que lo que se estudia queda unido a lo que ya se conoce. Así el texto resulta más cercano y más fácil de recordar. Es una obra que pide bastante concentración, y por eso incluye pausas para descansar y repasar. Su nombre une las primeras sílabas de Marta y Carles. Para quien quiera hacer más suyo lo que estudia.
+
+**Materiales:** diez páginas en las que se pueda escribir (o fotocopias), dos lápices de colores distintos, goma, un reloj o cuenta atrás y un móvil o cámara para grabar vídeo.
+
+- Portada: https://drive.google.com/file/d/1po1YZc8mxElRzqH_1jMM0yFfOMOyz-rM/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1po1YZc8mxElRzqH_1jMM0yFfOMOyz-rM
+- Descarga: https://drive.google.com/uc?export=download&id=1Wu7KuE0nIXCWb_I8CU99jWWr5DE7YNZe
+- Vista en Drive: https://drive.google.com/file/d/1Wu7KuE0nIXCWb_I8CU99jWWr5DE7YNZe/view?usp=drive_link
+- Compra: https://buy.stripe.com/28E7sK0G8b8Pc8u4yi8IU0A
+- buy-button-id: `buy_btn_1UOakoBcVTg9s8mvHL4Upewe`
+
+### 3.16 Grafitis · [PENDIENTE] €
+
+*Una forma de aprender enmarcando las palabras.*
+
+**Resumen en una línea:** una forma de estudiar un texto llevando sus ideas a lugares reales, inspirada en los grafitis.
+
+Se inspira en los grafitis del sur de València. Propone escoger de un texto las frases más importantes, escribirlas en grande y llevarlas a distintos lugares, de modo que cada idea quede unida a un sitio concreto. Escribir con letra propia y ver las ideas fuera del papel ayuda a recordarlas. **Para quien le cuesta estudiar sentado y prefiere moverse.**
+
+**Materiales:** diez páginas de teoría, quince cartulinas A4, un rotulador permanente de punta gruesa, celo o adhesivo temporal, un reloj y un móvil o cámara. Opcionales: rotuladores de colores y una bebida al gusto.
+
+- Portada: https://drive.google.com/file/d/1Fb_ibTLdgkr8Y9fO5aDoIj17ohxGpX0a/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1Fb_ibTLdgkr8Y9fO5aDoIj17ohxGpX0a
+- Descarga: https://drive.google.com/uc?export=download&id=1hANA0Wx3el9HOBN_ZKMPu31ZxFy8Boww
+- Vista en Drive: https://drive.google.com/file/d/1hANA0Wx3el9HOBN_ZKMPu31ZxFy8Boww/view?usp=drive_link
+- Compra: https://buy.stripe.com/5kQdR80G80ub5K6fcW8IU0B
+- buy-button-id: `buy_btn_1UOalhBcVTg9s8mvB2ZjuoLh`
+
+### 3.17 Iniciales · [PENDIENTE] €
+
+*La joyería de las páginas.*
+
+**Resumen en una línea:** una forma de estudiar un texto fijándose en sus detalles y guardándolos en un collar hecho a mano.
+
+Relaciona el estudio con la joyería, dos oficios que cuidan mucho el detalle. Propone escoger de un texto algunos detalles concretos, como un nombre o una cifra, y grabar su inicial a mano en pequeñas piezas que al final forman un collar. Ese collar sirve después para repasar lo estudiado. Trabajar con las manos ayuda a concentrarse y a recordar. **Para quien estudia mejor haciendo algo con las manos.**
+
+**Materiales:** diez páginas de teoría, un cronómetro, veintisiete piezas de material blando (madera, aluminio, cobre, latón o arcilla), un estilete o punzón, una cuerda de collar, un rotulador fino de color y una superficie estable. Opcionales: cinco piezas separadoras vistosas, base de corcho, pinzas, paño y caja.
+
+> Es la única obra del catálogo que pide **comprar materiales** (las piezas y la cuerda). Conviene decirlo antes de la compra, no después.
+
+- Portada: https://drive.google.com/file/d/1BMlOjTlQ63uIrcIKgaik8aPczDx-nfh3/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1BMlOjTlQ63uIrcIKgaik8aPczDx-nfh3
+- Descarga: https://drive.google.com/uc?export=download&id=1w8t_0Xi0dU7EE4kiKaY9wBh_0CGdu4TC
+- Vista en Drive: https://drive.google.com/file/d/1w8t_0Xi0dU7EE4kiKaY9wBh_0CGdu4TC/view?usp=drive_link
+- Compra: https://buy.stripe.com/00w5kC2OgdgXa0m7Ku8IU0C
+- buy-button-id: `buy_btn_1UOamvBcVTg9s8mvOrsoEWhn`
+
+---
+
+## BLOQUE D · SERIE ESTIU Y ARTÍCULOS
+
+
+### 3.18 Blicklick · Publicación · 46,80 € (IVA incluido)
 
 *Un nuevo saber por descubrir.* Publicación digital **para imprimir** en casa, de la serie Estiu.
 
@@ -482,7 +592,7 @@ No hace falta preparar nada ni saber de antemano qué quieres aprender: precisam
 - Compra: https://buy.stripe.com/9B63cu0G86Sz1tQgh08IU0n
 - buy-button-id: `buy_btn_1TqqrWBcVTg9s8mv9FNkhdl6`
 
-### 3.14 Progetti · gratuito (0 €)
+### 3.19 Progetti · gratuito (0 €)
 
 *De la Roma renacentista al aprender a aprender presente.* Artículo digital de Carles Hernández i Coscollà.
 
@@ -751,7 +861,11 @@ Cosas que el agente no debe resolver por su cuenta:
 14. **Colección nueva: *Idees per a estudiar*.** *Anotar* la estrena. No estaba en el plan editorial anterior (colecciones Estiu y Baukasten). Aclarar si sustituye a alguna, si es la línea en valenciano o si convive con las otras.
 15. **Idioma de *Anotar*.** Es la única publicación solo en valenciano. Decidir si habrá versión en castellano y, mientras tanto, avisarlo siempre al recomendarla.
 16. **Cursos sin libro.** De los nueve cursos para familias, siete ya tienen su libro. Quedan **Adicciones a las pantallas** y los dos de la Confederació (*Orientación escolar en la transición*, *Las familias ante el mundo tecnológico*). Si se escriben, la colección quedaría completa.
-17. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
+17. **⚠️ Precio de las cinco Bonsáis: PENDIENTE.** Los Payment Links ya existen, así que el importe está puesto en Stripe. Recuperarlo de allí y escribirlo en la tienda. **Mientras tanto el agente no debe decir ningún precio de esta colección.** Es el pendiente más urgente: hay botones de compra vivos sin precio documentado.
+18. **⚠️ Las cinco Bonsáis comparten el mismo ISBN** (978-84-09-92400-4). O es el ISBN de la colección como obra conjunta —y entonces hay que decirlo así—, o falta registrar cuatro. El propio documento de tienda lo marca como "REVISAR".
+19. **Nº de páginas de las Bonsáis.** Está pendiente en las cinco. Ojo con la ambigüedad: "10 páginas" son las de teoría que el lector estudia, no la extensión de la obra.
+20. **Colecciones sin inventario.** Ya hay al menos cuatro nombres en circulación: *Libro de familias*, *Bonsáis*, *Idees per a estudiar* y la *serie Estiu*. Convendría una lista de colecciones con su criterio, porque es lo que ordena la página de publicaciones.
+21. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
 
 ---
 
