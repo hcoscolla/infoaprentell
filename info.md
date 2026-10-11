@@ -2,7 +2,7 @@
 
 ### Documento de contexto para el informador de IA de aprentell.com
 
-**Versión 6 · octubre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
+**Versión 7 · octubre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
 
 ---
 
@@ -49,7 +49,9 @@ Una recomendación, dos como mucho. Nunca la lista entera.
 | "No soporto estar sentado estudiando" | *Grafitis* (se estudia de pie y moviéndose) |
 | "Necesito hacer algo con las manos" | *Iniciales* (⚠️ pide comprar materiales) |
 | "Quiero regalar algo distinto" | *Blicklick · Publicación* (46,80 €) · entrada de la experiencia Blicklick |
-| "Soy de una AMPA / un centro" | Cursos para familias (apartado 5) |
+| "Soy de una AMPA / un centro" | Cursos para familias (apartado 5) · *Participar* (9 €), para la asociación misma |
+| "Nos cuesta que la gente venga a las asambleas", "no hay manera de acordar nada" | *Participar* |
+| "Somos una asociación / plataforma / cooperativa" | *Participar* — y **no** la guía personalizada |
 
 ---
 
@@ -216,6 +218,7 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 | Decidir el después de la ESO | 9 € | 77 | [PENDIENTE] | Libro de familias | Familias con hijos terminando la ESO |
 | Habitar el tiempo | 9 € | 60 | [PENDIENTE] | Libro de familias | Familias, de primaria a bachillerato |
 | Comunicación y adolescencia | 9 € | 54 | [PENDIENTE] | Libro de familias | Familias con adolescentes |
+| Participar | 9 € | 96 | [PENDIENTE] | Participación | Asociaciones, AMPAs, plataformas, cooperativas |
 | Inicial | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia escuchando |
 | Arlequín | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia dibujando |
 | Marcar | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien necesita hacerlo suyo |
@@ -224,7 +227,9 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 | Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Serie Estiu | Regalo, juego para descubrir qué aprender |
 | Progetti | **Gratis** | [PENDIENTE] | [PENDIENTE] | Artículo | Docentes y curiosos |
 
-**Diecinueve publicaciones**, en cuatro bloques: cinco **para quien estudia**, siete de la colección **Libro de familias**, cinco de la colección **Bonsáis** y dos de la **serie Estiu y artículos**.
+**Veinte publicaciones**, en cinco bloques: cinco **para quien estudia**, siete de la colección **Libro de familias**, cinco de la colección **Bonsáis**, una de **participación y comunidad** y dos de la **serie Estiu y artículos**.
+
+**Ojo con *Participar*:** es la primera publicación que no trata de estudiar. Su público no es quien estudia ni su familia, sino el grupo organizado —una AMPA, una asociación vecinal, una cooperativa—. No se recomienda por el mismo camino que el resto del catálogo; ver el bloque D y el pendiente nº 22.
 
 ⚠️ **Las cinco Bonsáis no se pueden vender todavía:** no tienen precio confirmado y comparten ISBN. Hasta resolverlo, el agente puede describirlas pero no debe decir ningún precio. Ver pendientes 18 y 19.
 
@@ -572,10 +577,43 @@ Relaciona el estudio con la joyería, dos oficios que cuidan mucho el detalle. P
 
 ---
 
-## BLOQUE D · SERIE ESTIU Y ARTÍCULOS
+## BLOQUE D · PARTICIPACIÓN Y COMUNIDAD
+
+### 3.18 Participar · 9 €
+
+*Para personas y organizaciones que participan en su comunidad.* Autor: Carles Hernández Coscollà. Ficha suelta: **no pertenece a ninguna colección**.
+
+**Resumen en una línea:** un libro con propuestas concretas para participar en asociaciones y grupos, del conflicto al acuerdo.
+
+**Descripción corta:** el conflicto junta a la gente y el acuerdo la sostiene. Propuestas concretas para escucharse, convocar, reunirse, pactar y sacar adelante proyectos en común, pensadas para asociaciones y grupos.
+
+Un libro para personas y organizaciones que participan en su comunidad: asociaciones vecinales y de familias, plataformas, secciones sindicales, cooperativas, ONG o una escalera de vecinos que tiene que decidir qué hace con el ascensor. Parte de una idea sencilla: **el conflicto es lo que junta a la gente y el acuerdo es lo que la sostiene**, y entre una cosa y otra pasa casi todo lo que cuenta en la vida de un grupo.
+
+Dos partes. **El conflicto**, sobre lo que ocurre antes de llegar a un acuerdo: cómo escucharse para descubrir lo que preocupa a mucha gente a la vez, cómo convocar de persona a persona y con palabras propias, por qué conviene celebrar algo al empezar, cómo conocerse mejor y dar sitio a quien suele quedarse fuera, y cómo salir a la calle sin agotar al grupo. **El acuerdo**, sobre cómo se construye y se cuida lo acordado: reuniones en las que se piensa antes de hablar, pactos escritos a la vista de todo el mundo, negociar sin regatear, proyectos que tienen en cuenta la vida real de la gente, el diálogo con las instituciones y la manera de dejar memoria de lo conseguido.
+
+Cada propuesta viene con ejemplos de grupos que la han probado, con lo que suele costar y con lo que suele salir mal, y se apoya en autores como Axel Honneth, Walter Benjamin, Manuel Delgado o Francesco Tonucci, explicados de forma sencilla. No es un manual cerrado: reconoce que mucha gente lleva años haciéndolo bien sin ningún libro, y ofrece ideas para elegir, adaptar y mezclar con lo que cada grupo ya hace.
+
+**Cómo venderlo.** Es el único producto del catálogo que se dirige a **la entidad, no a la persona**. Hasta ahora, cuando escribía una AMPA solo había una cosa que ofrecerle: contratar un curso. Ahora hay algo que puede comprar hoy, por 9 €, y que trata de su propio funcionamiento como grupo —convocar, reunirse, acordar— y no del estudio de sus hijos. Dos usos claros:
+
+- **A una AMPA o AFA que pregunta por un curso** y no puede o no quiere contratarlo todavía: los libros de familias le sirven para el estudio, y *Participar* para la asociación misma.
+- **A quien no tiene nada que ver con el estudio**: una plataforma, una cooperativa, una sección sindical, una comunidad de vecinos. Es la única puerta del catálogo que les encaja, así que conviene no empujarles hacia la guía personalizada.
+
+**No se recomienda** a quien pregunta por concentración, oposiciones, exámenes o acompañamiento del estudio en casa. No es un libro sobre aprender.
+
+- 96 páginas · ISBN [PENDIENTE — registrar]
+- Portada: https://drive.google.com/file/d/1R5rSKkD_EYfME92OO_Ugx8wM7RoAjseC/view?usp=sharing
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1R5rSKkD_EYfME92OO_Ugx8wM7RoAjseC
+- Descarga: https://drive.google.com/uc?export=download&id=1_ybRDMRQ9qVnvTeijdJaof-7939Q-VrD
+- Vista en Drive: https://drive.google.com/file/d/1_ybRDMRQ9qVnvTeijdJaof-7939Q-VrD/view?usp=drive_link
+- Compra: https://buy.stripe.com/eVqdR8agI0ubfkG4yi8IU0D
+- buy-button-id: `buy_btn_1UPLCWBcVTg9s8mvdOou6dYc`
+
+---
+
+## BLOQUE E · SERIE ESTIU Y ARTÍCULOS
 
 
-### 3.18 Blicklick · Publicación · 46,80 € (IVA incluido)
+### 3.19 Blicklick · Publicación · 46,80 € (IVA incluido)
 
 *Un nuevo saber por descubrir.* Publicación digital **para imprimir** en casa, de la serie Estiu.
 
@@ -592,7 +630,7 @@ No hace falta preparar nada ni saber de antemano qué quieres aprender: precisam
 - Compra: https://buy.stripe.com/9B63cu0G86Sz1tQgh08IU0n
 - buy-button-id: `buy_btn_1TqqrWBcVTg9s8mv9FNkhdl6`
 
-### 3.19 Progetti · gratuito (0 €)
+### 3.20 Progetti · gratuito (0 €)
 
 *De la Roma renacentista al aprender a aprender presente.* Artículo digital de Carles Hernández i Coscollà.
 
@@ -679,6 +717,8 @@ Una familia sola **no puede comprar un curso**. Un curso es una sesión para un 
 | Reserva | https://calendly.com/aprentell/familiascursos |
 | Pago | https://book.stripe.com/00w5kCdsUel18Wi2qa8IU0f |
 | buy-button-id | `buy_btn_1TYljfBcVTg9s8mv98hVStFB` |
+
+**Para añadir a la conversación con una entidad:** además del curso existe ahora ***Participar*** (9 €, apartado 3.18), un libro dirigido a la asociación como grupo —convocar, reunirse, acordar, tratar con las instituciones—, no al estudio de los hijos. Es lo que se puede ofrecer a una AMPA que todavía no contrata curso, y lo único del catálogo que encaja con una entidad que no tiene nada que ver con el estudio.
 
 **Descripción comercial:** una sesión práctica de hora y media donde la familia se lleva un repertorio de propuestas concretas para poner en marcha desde el mismo día. Se elige el tema que más preocupe y se trabaja con una mirada nueva, sin exigencias, poniendo en valor lo que ya se hace bien. Después del curso se llevan todo el material —ideas, textos y podcast— para repasarlo cuando quieran.
 
@@ -849,7 +889,7 @@ Cosas que el agente no debe resolver por su cuenta:
 2. **Nombre y URL de la guía.** Conviven tres: **Tria-t** (aprentell.com/triat), "Guías a medida" (aprentell.com/guia) y aprentell.com/guias. Unificar nombre comercial y URL canónica.
 3. **Fecha de Blicklick.** El documento de Trayectoria anuncia el 8 de julio de 2026 (edición ya celebrada) y la tienda vende la del 3 de octubre de 2026. Usar siempre la de octubre.
 4. **Lugar de Blicklick.** La descripción dice "Hotel Gran Vía de Valencia" y la línea de datos dice "L&H Gran Vía Valencia". Es el mismo sitio; unificar el nombre.
-5. **ISBN pendientes — ya son once de catorce.** Foto-síntesis, La memoria del arte, Anotar, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Habitar el tiempo, Comunicación y adolescencia, Progetti. Solo tienen ISBN *Concentración para oposiciones*, *Impulsa tu estudio* y *Blicklick*. Vale la pena hacer una tanda de registro de golpe en vez de uno a uno.
+5. **ISBN pendientes — doce de veinte, más las cinco Bonsáis que comparten uno.** Sin ISBN: Foto-síntesis, La memoria del arte, Anotar, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Habitar el tiempo, Comunicación y adolescencia, **Participar**, Progetti. Solo tienen ISBN propio *Concentración para oposiciones*, *Impulsa tu estudio* y *Blicklick*; las cinco Bonsáis repiten el mismo (ver nº 18). Vale la pena hacer una tanda de registro de golpe en vez de uno a uno.
 6. **Páginas pendientes:** Impulsa tu estudio, Progetti.
 7. **"Regala una guía":** falta precio, descripción y enlace de compra propio.
 8. **Progetti** es gratuito pero no tiene enlace de compra creado.
@@ -865,7 +905,9 @@ Cosas que el agente no debe resolver por su cuenta:
 18. **⚠️ Las cinco Bonsáis comparten el mismo ISBN** (978-84-09-92400-4). O es el ISBN de la colección como obra conjunta —y entonces hay que decirlo así—, o falta registrar cuatro. El propio documento de tienda lo marca como "REVISAR".
 19. **Nº de páginas de las Bonsáis.** Está pendiente en las cinco. Ojo con la ambigüedad: "10 páginas" son las de teoría que el lector estudia, no la extensión de la obra.
 20. **Colecciones sin inventario.** Ya hay al menos cuatro nombres en circulación: *Libro de familias*, *Bonsáis*, *Idees per a estudiar* y la *serie Estiu*. Convendría una lista de colecciones con su criterio, porque es lo que ordena la página de publicaciones.
-21. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
+21. **Una línea editorial nueva que el dosier todavía no recoge.** *Participar* se sale de la premisa del apartado 1 ("Aprentell no enseña materias, se ocupa del *cómo* se estudia"): trata de cómo funciona un grupo. Conviene decidir si es un caso aislado o el principio de una línea sobre vida asociativa, porque de eso depende cómo se presenta Aprentell y cómo se ordena la página de publicaciones. Mientras no se decida, el agente lo trata como lo que es: un producto excelente para entidades y fuera de lugar para quien pregunta por estudiar.
+22. **¿Hay curso de *Participar*?** Todos los demás libros de temática familiar nacieron de un curso o tienen uno equivalente. Este no tiene ninguno en el catálogo, y el público al que apunta (AMPAs, federaciones) es justo el que contrata formación. Si se decide crearlo, es el encaje más natural que tiene el catálogo ahora mismo.
+23. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
 
 ---
 
