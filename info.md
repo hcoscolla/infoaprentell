@@ -2,7 +2,7 @@
 
 ### Documento de contexto para el informador de IA de aprentell.com
 
-**Versión 8 · octubre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
+**Versión 9 · noviembre de 2026** · Fuentes: documento *Tienda Aprentell* (prioritario, volcado íntegro) + documento *Trayectoria* + estado general del proyecto
 
 ---
 
@@ -44,6 +44,9 @@ Una recomendación, dos como mucho. Nunca la lista entera.
 | "Lo deja todo para el último día", "no se organiza" | *Habitar el tiempo* · guía personalizada |
 | "No hay manera de hablar con mi hija", "todo acaba en portazo" | *Comunicación y adolescencia* |
 | "Estudio mucho y no retengo" | Guía personalizada · *Foto-síntesis* |
+| "Estudia horas y no le entra", "ya no puedo ayudarle, no entiendo la materia" | *Acompañar el estudio y el aprendizaje* |
+| "Estoy en la carrera / en un grado superior" | *Saber estudiar \| Superior* (9 €) · guía personalizada |
+| "Soy enfermera / matrona / fisio / trabajadora social", "doy clase en enfermería" | *Aprender el cuidado* — y **no** la guía personalizada |
 | "Tomo apuntes en la universidad y quiero usar IA bien" | *Anotar* (gratis, **en valenciano**) |
 | "Quiero aprender algo de arte", "tengo que memorizar nombres" | *La memoria del arte* |
 | "Tengo diez páginas que estudiar esta tarde" | Una **Bonsái**, según cómo estudie mejor (ver abajo) |
@@ -221,7 +224,11 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 | Decidir el después de la ESO | 9 € | 77 | [PENDIENTE] | Libro de familias | Familias con hijos terminando la ESO |
 | Habitar el tiempo | 9 € | 60 | [PENDIENTE] | Libro de familias | Familias, de primaria a bachillerato |
 | Comunicación y adolescencia | 9 € | 54 | [PENDIENTE] | Libro de familias | Familias con adolescentes |
+| **Acompañar el estudio y el aprendizaje** | 9 € | 55 | [PENDIENTE] | Libro de familias | Familias que acompañan el estudio en casa |
 | **Saber estudiar \| Básico** | **20 €** | 79 | [PENDIENTE] | **Estudiantes** | Estudiantes de 9 a 13 años, sus familias y centros |
+| **Saber estudiar \| Superior** | 9 € | 80 | 978-84-09-94092-9 | Estudiantes | Universidad, FP superior, enseñanzas artísticas |
+| **Saber estudiar \| Superior (valencià)** | ⚠️ **no está a la venta** | 77 | [PENDENT] | Estudiants | Lo mismo, en valenciano |
+| **Aprender el cuidado** | 9 € | 94 | 978-84-09-95036-2 | **Teoría del aprendizaje** | Profesionales del cuidado: enfermería, trabajo social… |
 | Participar | 9 € | 96 | [PENDIENTE] | Participación | Asociaciones, AMPAs, plataformas, cooperativas |
 | Inicial | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia escuchando |
 | Arlequín | **[PENDIENTE]** | 10 pp. de teoría · 1 h | 978-84-09-92400-4 ⚠️ | Bonsáis | Quien estudia dibujando |
@@ -231,15 +238,19 @@ Todas son digitales (PDF y ePub), de descarga inmediata. Página general: www.ap
 | Blicklick · Publicación | 46,80 € | 101 | 978-84-09-89055-2 | Serie Estiu | Regalo, juego para descubrir qué aprender |
 | Progetti | **Gratis** | [PENDIENTE] | [PENDIENTE] | Artículo | Docentes y curiosos |
 
-**Veintiuna publicaciones**, en seis bloques: cinco **para quien estudia**, siete de la colección **Libro de familias**, cinco de la colección **Bonsáis**, una de la colección **Estudiantes**, una de **participación y comunidad** y dos de la **serie Estiu y artículos**.
+**Veinticinco publicaciones**, en siete bloques: cinco **para quien estudia**, ocho de la colección **Libro de familias**, cinco de la colección **Bonsáis**, tres de la colección **Estudiantes**, una de **teoría del aprendizaje**, una de **participación y comunidad** y dos de la **serie Estiu y artículos**.
+
+**De las veinticinco, veintitrés se pueden vender hoy.** Las dos que no: *Saber estudiar | Superior (valencià)* (sin precio ni enlace de compra) y las cinco Bonsáis, que tienen botón de compra vivo pero precio sin documentar.
+
+**El catálogo ya no es solo sobre estudiar.** Tres productos se salen de la premisa y cada uno tiene su propio público, que no se solapa con los demás: ***Participar*** (asociaciones), ***Aprender el cuidado*** (profesionales sanitarios y sociales) y, dentro de lo editorial, el hecho de que ese último **no lo firma Carles**: es una traducción de Peter Alheit. Al recomendar, conviene preguntarse primero quién escribe antes de empujar hacia la guía personalizada.
 
 **Dos avisos de precio.** Todo el catálogo está a 9 € (o gratis) salvo tres excepciones: *Blicklick* (46,80 €), las Bonsáis (precio pendiente) y ***Saber estudiar | Básico* (20 €)**. Este último no es un libro para leer, es el material completo de un curso de cuatro sesiones —por eso cuesta más—, y conviene explicarlo así cuando alguien compare precios.
 
-**Ojo con *Participar*:** es la primera publicación que no trata de estudiar. Su público no es quien estudia ni su familia, sino el grupo organizado —una AMPA, una asociación vecinal, una cooperativa—. No se recomienda por el mismo camino que el resto del catálogo; ver el bloque E y el pendiente nº 22.
+**Ojo con *Participar*:** es la primera publicación que no trata de estudiar. Su público no es quien estudia ni su familia, sino el grupo organizado —una AMPA, una asociación vecinal, una cooperativa—. No se recomienda por el mismo camino que el resto del catálogo; ver el bloque F y el pendiente nº 22.
 
 ⚠️ **Las cinco Bonsáis no se pueden vender todavía:** no tienen precio confirmado y comparten ISBN. Hasta resolverlo, el agente puede describirlas pero no debe decir ningún precio. Ver pendientes 18 y 19.
 
-Las siete del **Libro de familias** son el contenido de los cursos del apartado 5 convertido en libro. Equivalencias que conviene tener claras, porque el título no siempre coincide:
+Las ocho del **Libro de familias** son el contenido de los cursos del apartado 5 convertido en libro. Equivalencias que conviene tener claras, porque el título casi nunca coincide:
 
 | Curso para familias | Libro |
 | --- | --- |
@@ -250,6 +261,7 @@ Las siete del **Libro de familias** son el contenido de los cursos del apartado 
 | Decidir después de la ESO | Decidir **el** después de la ESO |
 | Procrastinación: el "ya lo haré luego" | **Habitar el tiempo** |
 | Comunicación con adolescentes | **Comunicación y adolescencia** |
+| Taller «Aprender a aprender» (FAMPA 5ba) | **Acompañar el estudio y el aprendizaje** |
 
 ---
 
@@ -484,6 +496,32 @@ La mayoría son cambios pequeños, con variantes para adaptarlos a cada casa, y 
 
 ---
 
+### 3.13 Acompañar el estudio y el aprendizaje · 9 € (IVA incluido)
+
+**Resumen en una línea:** un libro para familias que acompañan el estudio en casa: cuando algo no entra, propone cambiar la manera de estudiarlo, sobre todo escribiendo y hablando, para que lo aprendido se diga con palabras propias.
+
+**Descripción corta:** cuando algo no entra, muchas veces lo que conviene cambiar es la manera de estudiarlo. Ideas para acompañar el estudio desde casa, sobre todo escribiendo y hablando, sin necesidad de saber de la materia.
+
+Está pensado para las familias que, en casa, están cerca de alguien que estudia. Cuando algo no entra, lo habitual es buscar la explicación en quien estudia o en lo que tiene que estudiar. El libro propone mirar también **lo que se hace para aprender**, porque es lo que se puede cambiar una tarde cualquiera, y la familia, que conoce bien a la persona, está en buen lugar para ayudar a encontrar lo que le encaja.
+
+Parte de una idea sencilla: leer trae lo que hay que aprender, pero se comprende cuando se vuelve a decir con las propias palabras. Por eso se detiene en dos acciones que están al alcance de cualquier casa, **escribir y hablar**, y en cómo acompañarlas sin invadir, cuidando el ambiente, la compañía, la escucha y la relación. Se lee como un libro de recetas, eligiendo lo que sirve en cada casa, y está lleno de escenas cotidianas que ayudan a imaginarlo.
+
+Para acompañar no hace falta saber de la materia: basta con estar cerca, escuchar con curiosidad y tener alguna idea a mano cuando algo se atasca.
+
+**Es el libro del taller «Aprender a aprender»**, y en FAMPA corresponde al curso **5ba · *Superar l'al·lèrgia a les dificultats: aprendre a aprendre*** (ver apartado 9). A las personas asistentes se les comparte con el enlace de vista previa.
+
+**Cómo venderlo.** Es la respuesta más directa a la queja más repetida de todas: "estudia y no le entra". Y es el único de la colección que **no necesita que la familia sepa de la asignatura**, lo que lo hace fácil de ofrecer a quien dice que ya no puede ayudar a su hijo porque no entiende la materia.
+
+- 55 páginas · ISBN [PENDIENTE — registrar]
+- Portada: https://drive.google.com/file/d/12I2sctveZ3udlGROmAembxW4okObVtzH/view?usp=drive_link
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=12I2sctveZ3udlGROmAembxW4okObVtzH
+- Descarga: https://drive.google.com/uc?export=download&id=19ZtJm9HKH3xhou8G3apmXSRYOHlLL2ti
+- Vista en Drive: https://drive.google.com/file/d/19ZtJm9HKH3xhou8G3apmXSRYOHlLL2ti/view?usp=sharing
+- Compra: https://buy.stripe.com/dRmeVcdsUel12xU9SC8IU0H
+- buy-button-id: `buy_btn_1Uak3sBcVTg9s8mvPmulDV4T`
+
+---
+
 ## BLOQUE C · COLECCIÓN BONSÁIS
 
 **Qué es la colección.** Obras de estudio escritas en València en el verano de 2025. Cada una es **una hora para estudiar diez páginas de teoría**, escrita como una partitura: partes cronometradas, materiales sencillos e indicaciones que se adaptan a cualquier asignatura y se pueden repetir con otros textos. Autor: Carles Hernández Coscollà. Diseño y maquetación: **Ana Muñoz Antón**.
@@ -494,7 +532,7 @@ La mayoría son cambios pequeños, con variantes para adaptarlos a cada casa, y 
 
 Datos comunes a las cinco: autor Carles Hernández Coscollà · diseño Ana Muñoz Antón · formato obra de estudio, 10 páginas de teoría, 1 hora · precio **[PENDIENTE]** · ISBN **978-84-09-92400-4 [REVISAR: es el mismo en las cinco]** · nº de páginas de la obra **[PENDIENTE]** · web www.aprentell.com/publicaciones
 
-### 3.13 Inicial · [PENDIENTE] €
+### 3.14 Inicial · [PENDIENTE] €
 
 *Una forma de aprender escuchando las palabras.*
 
@@ -511,7 +549,7 @@ Es la primera obra de la colección. Propone estudiar un texto con muy pocos rec
 - Compra: https://buy.stripe.com/4gM7sK60s2Cj5K64yi8IU0y
 - buy-button-id: `buy_btn_1UOaepBcVTg9s8mvwMZlmgwy`
 
-### 3.14 Arlequín · [PENDIENTE] €
+### 3.15 Arlequín · [PENDIENTE] €
 
 *Una forma de conocer a través del dibujo primitivo.*
 
@@ -528,7 +566,7 @@ Propone estudiar un texto convirtiendo lo que se lee en dibujos sencillos, sin p
 - Compra: https://buy.stripe.com/00w5kCcoQfp5dcyd4O8IU0z
 - buy-button-id: `buy_btn_1UOajZBcVTg9s8mv8ePbjivM`
 
-### 3.15 Marcar · [PENDIENTE] €
+### 3.16 Marcar · [PENDIENTE] €
 
 *Una forma de aprender dando la vuelta a las palabras.*
 
@@ -545,7 +583,7 @@ Mientras se lee, se escriben sobre el texto nombres de personas, lugares o recue
 - Compra: https://buy.stripe.com/28E7sK0G8b8Pc8u4yi8IU0A
 - buy-button-id: `buy_btn_1UOakoBcVTg9s8mvHL4Upewe`
 
-### 3.16 Grafitis · [PENDIENTE] €
+### 3.17 Grafitis · [PENDIENTE] €
 
 *Una forma de aprender enmarcando las palabras.*
 
@@ -562,7 +600,7 @@ Se inspira en los grafitis del sur de València. Propone escoger de un texto las
 - Compra: https://buy.stripe.com/5kQdR80G80ub5K6fcW8IU0B
 - buy-button-id: `buy_btn_1UOalhBcVTg9s8mvB2ZjuoLh`
 
-### 3.17 Iniciales · [PENDIENTE] €
+### 3.18 Iniciales · [PENDIENTE] €
 
 *La joyería de las páginas.*
 
@@ -587,7 +625,7 @@ Relaciona el estudio con la joyería, dos oficios que cuidan mucho el detalle. P
 
 **Qué es la colección.** La primera dirigida al estudiante mismo, por edades. De momento tiene un solo título. No hay texto de presentación de la colección en la tienda; ver pendiente nº 24.
 
-### 3.18 Saber estudiar | Básico · 20 € (IVA incluido)
+### 3.19 Saber estudiar | Básico · 20 € (IVA incluido)
 
 *De 5.º de primaria a 2.º de la ESO. De 9 a 13 años.* Publicación digital, colección **Estudiantes**. Autor: Carles Hernández Coscollà.
 
@@ -627,9 +665,77 @@ Dos cosas que lo distinguen del resto del catálogo: es el **único producto con
 
 ---
 
-## BLOQUE E · PARTICIPACIÓN Y COMUNIDAD
+### 3.20 Saber estudiar | Superior · 9 € (IVA incluido)
 
-### 3.19 Participar · 9 €
+Para **universidad, FP de grado superior y enseñanzas artísticas superiores**. Colección Estudiantes *[REVISAR — la ficha marca la colección como pendiente de confirmar]*.
+
+Cuatro bloques: **comprender, practicar, concentrarse e interesarse**.
+
+Trae **guía docente** con orientaciones para impartirlo: **cuatro sesiones de hora y media, una por cada parte del libro**.
+
+- 80 páginas · **ISBN 978-84-09-94092-9**
+- Guía docente (vista previa): https://drive.google.com/file/d/1hBIVcaQj2ix9sgCe8aYpQIAi_IlDAE3L/view?usp=drive_link
+- Compra: https://buy.stripe.com/dRmeVc9cEa4L8Wi1m68IU0F
+- buy-button-id: `buy_btn_1UWiz9BcVTg9s8mvYSpu257o`
+
+> ⚠️ Esta ficha está **menos desarrollada que el resto** en la tienda: no tiene descripción larga ni descripción corta, y le faltan los enlaces de portada, descarga y vista en Drive. Con lo que hay se puede vender, pero el agente no tiene material para contarlo bien. Ver pendiente nº 29.
+
+**Cómo venderlo.** Es el hermano mayor de *Saber estudiar | Básico* y cubre al público que la guía personalizada atiende sobre todo: universidad y FP superior. Diferencia clave de precio: el *Básico* cuesta 20 € y este **9 €**. Si alguien compara, la razón es que el Básico trae material para cuatro sesiones con tres piezas cada una (familias, teatro leído, actividades), y este es un libro con su guía docente.
+
+### 3.21 Saber estudiar | Superior (valencià) · ⚠️ TODAVÍA NO ESTÁ A LA VENTA
+
+Traducción al valenciano de la ficha anterior. Colección Estudiants *[REVISAR]*.
+
+**No se puede vender:** no tiene precio (`[PENDENT — confirmar]`), no tiene enlace de Stripe ni buy-button, y la portada está pendiente. El ISBN también: el documento avisa de que **necesita uno propio, distinto del de la versión en castellano**.
+
+- 77 páginas · ISBN [PENDENT — necesita uno propio]
+- Guía docente en valenciano: https://drive.google.com/file/d/1CXQzilVT_qKJCUCM26guX_sCKIMt1arJ/view?usp=drive_link
+
+**Qué hace el agente:** si alguien escribe en valenciano y pide material, puede decir que la versión valenciana está en camino y que de momento está disponible **en castellano** (3.20) y, en valenciano, ***Anotar*** (gratis, 3.5). No da precio ni enlace de compra de esta.
+
+---
+
+## BLOQUE E · TEORÍA DEL APRENDIZAJE
+
+**Qué es.** Categoría nueva, con un solo título y dos rasgos que no se repiten en ningún otro producto del catálogo: **no lo firma Carles** y **no trata de estudiar**. Es Aprentell haciendo de editorial de otros autores. Ver pendiente nº 28.
+
+### 3.22 Aprender el cuidado · 9 € (IVA incluido)
+
+*Una forma distinta de pensar la profesionalidad en las profesiones del cuidado.*
+
+**Autor: Peter Alheit**, con la colaboración de Heidrun Herzberg. **Traducción del alemán: Francesc J. Hernández.** Edición: Editorial Aprentell, València. Primera edición: diciembre de 2026.
+
+**Resumen en una línea:** un ensayo breve y accesible sobre cómo se aprende a cuidar, pensado para quienes trabajan o se forman en las profesiones del cuidado.
+
+**Descripción corta:** ¿se puede aprender el cuidado? Un ensayo breve y accesible que, de la mano de autores clave sobre el aprendizaje, propone otra manera de entender la profesionalidad en las profesiones del cuidado.
+
+Parte de una pregunta sencilla: **¿se puede aprender el cuidado?** Se pueden aprender las técnicas, los protocolos y los conocimientos que exige el trabajo en enfermería, en un paritorio o en el trabajo social, y todo ello es imprescindible. Pero quien cuida bien también percibe cosas que no aparecen en ningún dato y actúa en situaciones que no se pueden prever del todo. Alheit se pregunta de dónde sale esa capacidad y cómo se forma.
+
+Para responder, recorre con calma algunas de las ideas más valiosas de la filosofía y las ciencias sociales sobre el aprendizaje, de **John Dewey** y **George Herbert Mead** a **Axel Honneth** y **Pierre Bourdieu**, y las acerca a escenas cotidianas del trabajo de cuidar. El recorrido termina en el concepto de **biograficidad**, que el propio autor desarrolló con Bettina Dausien: la capacidad de las personas de dar un sentido nuevo a lo que han vivido y convertirlo en nuevas posibilidades. De ahí sale otra manera de entender la profesionalidad, menos como una lista de competencias y más como una forma de percibir, juzgar y actuar que se va haciendo con la experiencia, con el reconocimiento de los demás y con el tiempo.
+
+No es un libro académico: prescinde del aparato de notas y busca, sobre todo, despertar las ganas de seguir leyendo.
+
+Para profesionales **en ejercicio y en formación de enfermería, matronería, fisioterapia, terapia ocupacional, trabajo social y medicina**, y para quienes los forman.
+
+**Cómo venderlo.** Es el producto más distinto del catálogo y el que más fácil es colocar mal. Su público no se solapa con ningún otro: no es quien estudia, ni su familia, ni una asociación, sino **quien ejerce o se forma en una profesión sanitaria o social**. Y es la única puerta que tiene Aprentell hacia escuelas de enfermería, colegios profesionales y formación continua.
+
+**No lo ofrezcas** a quien pregunta por concentración, exámenes, oposiciones o acompañamiento del estudio. **Sí** a quien se presenta como enfermera, matrona, fisioterapeuta, terapeuta ocupacional, trabajadora social o docente de esos grados.
+
+Dos cosas que dan autoridad al presentarlo: **Peter Alheit** es una referencia internacional en aprendizaje a lo largo de la vida —y aparece citado en *Decidir el después de la ESO*—, y es la **primera traducción** publicada por Aprentell.
+
+- 94 páginas · **ISBN 978-84-09-95036-2**
+- Portada: https://drive.google.com/file/d/1BTrEdrda85yoeVKlShlozKcs-zxHuMP2/view?usp=drive_link
+- Portada (enlace directo para web): https://drive.google.com/uc?export=view&id=1BTrEdrda85yoeVKlShlozKcs-zxHuMP2
+- Descarga: https://drive.google.com/uc?export=download&id=1x6ojKJ9hapVF2jJfSdn3lC_DEjDsNPDI
+- Vista en Drive: https://drive.google.com/file/d/1x6ojKJ9hapVF2jJfSdn3lC_DEjDsNPDI/view?usp=drive_link
+- Compra: https://buy.stripe.com/4gM14mcoQ6Szdcy9SC8IU0G
+- buy-button-id: `buy_btn_1Uaa8qBcVTg9s8mvEvWjux1J`
+
+---
+
+## BLOQUE F · PARTICIPACIÓN Y COMUNIDAD
+
+### 3.23 Participar · 9 €
 
 *Para personas y organizaciones que participan en su comunidad.* Autor: Carles Hernández Coscollà. Ficha suelta: **no pertenece a ninguna colección**.
 
@@ -660,10 +766,10 @@ Cada propuesta viene con ejemplos de grupos que la han probado, con lo que suele
 
 ---
 
-## BLOQUE F · SERIE ESTIU Y ARTÍCULOS
+## BLOQUE G · SERIE ESTIU Y ARTÍCULOS
 
 
-### 3.20 Blicklick · Publicación · 46,80 € (IVA incluido)
+### 3.24 Blicklick · Publicación · 46,80 € (IVA incluido)
 
 *Un nuevo saber por descubrir.* Publicación digital **para imprimir** en casa, de la serie Estiu.
 
@@ -680,7 +786,7 @@ No hace falta preparar nada ni saber de antemano qué quieres aprender: precisam
 - Compra: https://buy.stripe.com/9B63cu0G86Sz1tQgh08IU0n
 - buy-button-id: `buy_btn_1TqqrWBcVTg9s8mv9FNkhdl6`
 
-### 3.21 Progetti · gratuito (0 €)
+### 3.25 Progetti · gratuito (0 €)
 
 *De la Roma renacentista al aprender a aprender presente.* Artículo digital de Carles Hernández i Coscollà.
 
@@ -759,12 +865,12 @@ Una familia sola **no puede contratar una sesión**. Lo que se contrata es que A
 | Precio | 90 € presencial · 80 € online | **[PENDIENTE]** |
 | Lo contrata | AMPA, AFA, centro, entidad | El centro o el AMPA |
 
-⚠️ **Y una excepción que rompe la regla de arriba:** el **material** de *Saber estudiar | Básico* sí se vende a cualquiera, por 20 € (apartado 3.18). Una familia o un docente pueden comprarlo y hacer las cuatro sesiones por su cuenta: trae guía docente, tiempos y diploma. Lo que no puede contratar un particular es que vaya Aprentell a impartirlo.
+⚠️ **Y una excepción que rompe la regla de arriba:** el **material** de *Saber estudiar | Básico* sí se vende a cualquiera, por 20 € (apartado 3.19). Una familia o un docente pueden comprarlo y hacer las cuatro sesiones por su cuenta: trae guía docente, tiempos y diploma. Lo que no puede contratar un particular es que vaya Aprentell a impartirlo.
 
 ### Qué ofrecer entonces a una familia particular
 
 1. **La guía personalizada (40 €).** Es la vía prioritaria. Sirve tanto para entender cómo estudia un hijo o una hija como para saber cómo acompañarle.
-2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa. Ya son **siete**: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?*, *Decidir el después de la ESO*, *Habitar el tiempo* y *Comunicación y adolescencia*. La tabla de equivalencias curso ↔ libro está en el apartado 3.
+2. **Los libros de la colección Libro de familias (9 €).** Son exactamente el contenido de los cursos, convertido en libro para leer en casa. Ya son **ocho**: *Autocontrol y responsabilidad*, *Cambios de primaria a secundaria*, *Mejorar su concentración*, *¿Estudiar con inteligencia artificial?*, *Decidir el después de la ESO*, *Habitar el tiempo*, *Comunicación y adolescencia* y *Acompañar el estudio y el aprendizaje*. La tabla de equivalencias curso ↔ libro está en el apartado 3.
 3. **Sugerirle que lo proponga a su AMPA.** Si le interesa el curso, puede pasarle el contacto de Aprentell a la asociación de su centro. Eso sí se puede hacer, y es una vía habitual.
 
 ### 5.1 · Curso para familias — una sesión de 90 minutos
@@ -780,7 +886,7 @@ Una familia sola **no puede contratar una sesión**. Lo que se contrata es que A
 | Pago | https://book.stripe.com/00w5kCdsUel18Wi2qa8IU0f |
 | buy-button-id | `buy_btn_1TYljfBcVTg9s8mv98hVStFB` |
 
-**Para añadir a la conversación con una entidad:** además del curso existe ahora ***Participar*** (9 €, apartado 3.19), un libro dirigido a la asociación como grupo —convocar, reunirse, acordar, tratar con las instituciones—, no al estudio de los hijos. Es lo que se puede ofrecer a una AMPA que todavía no contrata curso, y lo único del catálogo que encaja con una entidad que no tiene nada que ver con el estudio.
+**Para añadir a la conversación con una entidad:** además del curso existe ahora ***Participar*** (9 €, apartado 3.23), un libro dirigido a la asociación como grupo —convocar, reunirse, acordar, tratar con las instituciones—, no al estudio de los hijos. Es lo que se puede ofrecer a una AMPA que todavía no contrata curso, y lo único del catálogo que encaja con una entidad que no tiene nada que ver con el estudio.
 
 **Descripción comercial:** una sesión práctica de hora y media donde la familia se lleva un repertorio de propuestas concretas para poner en marcha desde el mismo día. Se elige el tema que más preocupe y se trabaja con una mirada nueva, sin exigencias, poniendo en valor lo que ya se hace bien. Después del curso se llevan todo el material —ideas, textos y podcast— para repasarlo cuando quieran.
 
@@ -850,7 +956,7 @@ Para la Confederació Gonçal Anaya se imparten además *Orientación escolar en
 
 ### 5.2 · Saber estudiar | Básico — cuatro sesiones para el alumnado
 
-Algunos centros y AMPAs contratan este curso para impartirlo **en el centro, al alumnado** de 5.º de primaria a 2.º de la ESO. Son las **cuatro sesiones** del material descrito en el apartado 3.18: el gusto de estudiar, saber cosas, saber hacer cosas y empezar a estudiar.
+Algunos centros y AMPAs contratan este curso para impartirlo **en el centro, al alumnado** de 5.º de primaria a 2.º de la ESO. Son las **cuatro sesiones** del material descrito en el apartado 3.19: el gusto de estudiar, saber cosas, saber hacer cosas y empezar a estudiar.
 
 Es la primera formación del catálogo dirigida **al alumnado y no a las familias**, y la primera de más de una sesión.
 
@@ -927,7 +1033,7 @@ Color corporativo: verde **#798113** sobre blanco.
 
 Sección privada. No aparece en web ni en tienda. El agente no la menciona nunca.
 
-Formato estándar: curso de formación para familias de 2 horas. Facturación mensual a mes vencido, por el total de sesiones impartidas. Desplazamiento (solo FAMPA): a más de 50 km se facturan 3 horas en lugar de 2 y se suman 0,25 €/km, ida y vuelta.
+Formato estándar: curso de formación para familias de 2 horas. Facturación mensual a mes vencido, por el total de sesiones impartidas. Desplazamiento (solo FAMPA): a más de 50 km se facturan 3 horas en lugar de 2 y se suman **0,26 €/km**, ida y vuelta *(era 0,25 € hasta el curso 2025-2026)*.
 
 | Entidad / vía | Tarifa | Sesión estándar | Importe por sesión | Notas |
 | --- | --- | --- | --- | --- |
@@ -941,13 +1047,13 @@ Formato estándar: curso de formación para familias de 2 horas. Facturación me
 | Cooperativa de Massamagrell | 25 €/h | 2 h | 50 € | Tarifa histórica |
 | Institut Lluís Vives | Paquete cerrado | 8 × 2 h (16 h) | 1.000 € el paquete · 125 €/sesión · 62,50 €/h | Tarifa histórica |
 
-**Fórmula de desplazamiento FAMPA:** Importe = (40 € × 3 h) + (km ida y vuelta × 0,25 €)
+**Fórmula de desplazamiento FAMPA:** Importe = (40 € × 3 h) + (km ida y vuelta × **0,26 €**)
 
 | Caso | Cálculo | Total |
 | --- | --- | --- |
 | FAMPA, a 40 km | 40 € × 2 h | 80 € |
-| FAMPA, a 70 km | (40 € × 3) + (140 km × 0,25 €) | 155 € |
-| FAMPA, a 100 km | (40 € × 3) + (200 km × 0,25 €) | 170 € |
+| FAMPA, a 70 km | (40 € × 3) + (140 km × 0,26 €) | 156,40 € |
+| FAMPA, a 100 km | (40 € × 3) + (200 km × 0,26 €) | 172,00 € |
 
 **Curso Alternativas — desglose:** sesión de 1 hora con material incluido, 40 €; complemento de difusión y gestión de inscripciones, 20 €; total por sesión con complemento, 60 €. El material didáctico va incluido, sin coste aparte.
 
@@ -963,7 +1069,7 @@ Cosas que el agente no debe resolver por su cuenta:
 2. **Nombre y URL de la guía.** Conviven tres: **Tria-t** (aprentell.com/triat), "Guías a medida" (aprentell.com/guia) y aprentell.com/guias. Unificar nombre comercial y URL canónica.
 3. **Fecha de Blicklick.** El documento de Trayectoria anuncia el 8 de julio de 2026 (edición ya celebrada) y la tienda vende la del 3 de octubre de 2026. Usar siempre la de octubre.
 4. **Lugar de Blicklick.** La descripción dice "Hotel Gran Vía de Valencia" y la línea de datos dice "L&H Gran Vía Valencia". Es el mismo sitio; unificar el nombre.
-5. **ISBN pendientes — trece de veintiuna, más las cinco Bonsáis que comparten uno.** Sin ISBN: Foto-síntesis, La memoria del arte, Anotar, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Habitar el tiempo, Comunicación y adolescencia, **Saber estudiar | Básico**, Participar, Progetti. Solo tienen ISBN propio *Concentración para oposiciones*, *Impulsa tu estudio* y *Blicklick*; las cinco Bonsáis repiten el mismo (ver nº 18). Vale la pena hacer una tanda de registro de golpe en vez de uno a uno.
+5. **ISBN pendientes — quince de veinticinco, más las cinco Bonsáis que comparten uno.** Sin ISBN: Foto-síntesis, La memoria del arte, Anotar, Autocontrol y responsabilidad, Cambios de primaria a secundaria, Mejorar su concentración, ¿Estudiar con inteligencia artificial?, Decidir el después de la ESO, Habitar el tiempo, Comunicación y adolescencia, **Acompañar el estudio y el aprendizaje**, Saber estudiar | Básico, **Saber estudiar | Superior (valencià)** —que además necesita uno propio, distinto del castellano—, Participar, Progetti. Sí lo tienen: *Concentración para oposiciones*, *Impulsa tu estudio*, *Blicklick*, **Saber estudiar | Superior** (978-84-09-94092-9) y **Aprender el cuidado** (978-84-09-95036-2). Solo tienen ISBN propio *Concentración para oposiciones*, *Impulsa tu estudio* y *Blicklick*; las cinco Bonsáis repiten el mismo (ver nº 18). Vale la pena hacer una tanda de registro de golpe en vez de uno a uno.
 6. **Páginas pendientes:** Impulsa tu estudio, Progetti.
 7. **"Regala una guía":** falta precio, descripción y enlace de compra propio.
 8. **Progetti** es gratuito pero no tiene enlace de compra creado.
@@ -974,7 +1080,7 @@ Cosas que el agente no debe resolver por su cuenta:
 13. **Cursos y libros con el mismo título.** *Autocontrol*, *Cambios de primaria a secundaria*, *Atención/Mejorar su concentración*, *¿Estudiar con IA?* y ahora *Decidir el después de la ESO* existen a la vez como curso (solo entidades) y como libro (9 €, cualquiera). Al responder hay que dejar claro cuál de los dos se está ofreciendo. Ojo con el título: el curso se llama *Decidir después de la ESO* y el libro *Decidir **el** después de la ESO*. Unificar o asumir la diferencia a conciencia.
 14. **Colección nueva: *Idees per a estudiar*.** *Anotar* la estrena. No estaba en el plan editorial anterior (colecciones Estiu y Baukasten). Aclarar si sustituye a alguna, si es la línea en valenciano o si convive con las otras.
 15. **Idioma de *Anotar*.** Es la única publicación solo en valenciano. Decidir si habrá versión en castellano y, mientras tanto, avisarlo siempre al recomendarla.
-16. **Cursos sin libro.** De los nueve cursos para familias, siete ya tienen su libro. Quedan **Adicciones a las pantallas** y los dos de la Confederació (*Orientación escolar en la transición*, *Las familias ante el mundo tecnológico*). Si se escriben, la colección quedaría completa.
+16. **Cursos sin libro.** De los cursos para familias, ocho ya tienen su libro. Queda **Adicciones a las pantallas** y los dos de la Confederació (*Orientación escolar en la transición*, *Las familias ante el mundo tecnológico*). Si se escriben, la colección quedaría completa.
 17. **⚠️ Precio de las cinco Bonsáis: PENDIENTE.** Los Payment Links ya existen, así que el importe está puesto en Stripe. Recuperarlo de allí y escribirlo en la tienda. **Mientras tanto el agente no debe decir ningún precio de esta colección.** Es el pendiente más urgente: hay botones de compra vivos sin precio documentado.
 18. **⚠️ Las cinco Bonsáis comparten el mismo ISBN** (978-84-09-92400-4). O es el ISBN de la colección como obra conjunta —y entonces hay que decirlo así—, o falta registrar cuatro. El propio documento de tienda lo marca como "REVISAR".
 19. **Nº de páginas de las Bonsáis.** Está pendiente en las cinco. Ojo con la ambigüedad: "10 páginas" son las de teoría que el lector estudia, no la extensión de la obra.
@@ -986,7 +1092,13 @@ Cosas que el agente no debe resolver por su cuenta:
 25. **"Básico" promete niveles que aún no existen.** No hay ningún *Medio* ni *Avanzado* en la tienda, y el título hace esperarlos. Decidir si vienen —y entonces anunciarlo— o si el nombre se queda así. Relacionado: la tabla de cursos FAMPA 2026-2027 remite a un "próximo curso de Aprentell sobre aprender a aprender" marcado como no publicado; si ese curso es este, hay que vincularlos, y si no, son dos cosas distintas con el mismo aire.
 26. **El escalón de precio de 20 €.** Es el primer producto que rompe el 9 € del catálogo sin ser un juego como *Blicklick*. Conviene fijar el criterio —precio por volumen de material, por público profesional, por número de sesiones— antes de poner precio a las Bonsáis, para que la lista de precios no quede arbitraria.
 27. **La tabla de cursos FAMPA 2026-2027 no está en este dosier.** El documento de tienda la tiene y aquí no se ha volcado. No es urgente para vender, pero si el agente va a responder a federaciones, habría que decidir si entra.
-28. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
+28. **Aprentell empieza a publicar a otros autores.** *Aprender el cuidado* es el primer título que no firma Carles y la primera traducción de la editorial, con una categoría propia inventada para él (*Teoría del aprendizaje*) y un público —profesionales sanitarios y sociales— que no se cruza con ningún otro producto. El apartado 1 y el anexo de trayectoria describen Aprentell como "editorial de ideas para estudiar y aprender", y eso ya no lo cubre. Decidir si es una línea o una excepción, porque cambia cómo se presenta la editorial y qué se le puede ofrecer a una escuela de enfermería.
+29. **La ficha de *Saber estudiar | Superior* está a medias.** Se vende (tiene Stripe y buy-button), pero en la tienda no tiene descripción larga, ni descripción corta, ni enlaces de portada, descarga o vista en Drive, al contrario que el resto. El agente puede venderlo pero no contarlo bien. Es lo más rentable de arreglar ahora mismo, porque el producto ya está cobrando.
+30. **La versión valenciana de *Superior* está a medio publicar.** Falta precio, Stripe, buy-button, portada e ISBN propio. Mientras tanto es un producto que existe, se puede nombrar y no se puede vender; conviene decidir si se termina o se retira de la tienda para que no induzca a error.
+31. **La colección de las fichas *Superior* está marcada `[REVISAR]`** en la propia tienda: no está confirmado que pertenezcan a *Estudiantes*. Si pertenecen, la colección pasa a tener tres títulos y dos idiomas, y ya pide el texto de presentación del pendiente nº 24.
+32. **El taller «Aprender a aprender» no está en el catálogo de cursos.** Existe —es el FAMPA 5ba y tiene su libro, *Acompañar el estudio y el aprendizaje*—, pero no figura entre los nueve cursos para familias del apartado 5. O se añade como décimo, o se aclara que es solo de FAMPA.
+33. **La tabla de cursos FAMPA 2026-2027 tiene quince códigos y un mecanismo que este dosier no recoge:** a cada curso le corresponde un libro que se **reparte a los asistentes con el enlace de vista previa**. Eso es una vía de distribución real, no un detalle administrativo, y afecta a qué se le puede decir a una familia que ya asistió a un curso. Convendría volcar la tabla (sustituye al antiguo pendiente nº 27).
+34. **Caducidad del mapa de itinerarios.** *Decidir el después de la ESO* está anclado al curso 2026/2027 de la Comunitat Valenciana. Hay que revisarlo cada año y decidir si el dato se actualiza o se retira de la descripción.
 
 ---
 
